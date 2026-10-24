@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lexiqcalcul.app",
+      "sha256_cert_fingerprints": [ "15:51:8D:C0:CC:DB:FA:3A:8F:98:89:B6:96:C9:84:8C:BD:78:C5:71:9B:E2:B1:66:5D:C3:01:7C:D3:3A:67:C6" ]
+    }
+  }
+]
