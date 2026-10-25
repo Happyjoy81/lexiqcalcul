@@ -1,0 +1,17 @@
+{
+  "name": "LexiQCalcul : mots et calculs",
+  "short_name": "LexiQCalcul",
+  "description": "Mots et calculs contre la montre. Chaque jour, le même défi pour tous.",
+  "lang": "fr-CA",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1E1B4B",
+  "theme_color": "#1E1B4B",
+  "icons": [
+    { "src": "/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
