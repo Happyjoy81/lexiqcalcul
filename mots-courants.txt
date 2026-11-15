@@ -1,14 +1,14 @@
 # Mots courants du français (2 à 10 lettres, avec accents), classés par palier de fréquence.
 # Fréquence retenue : celle des sous-titres de films (Lexique 4.10), rehaussée par la moyenne
 # films-livres quand le mot est plus fréquent dans les livres (fréquences « livres » de Lexique 3.83).
+# Quand la graphie est surtout un nom propre dans les sous-titres (Madison, Henry, Berlin…), seule la fréquence du nom commun est retenue.
 # Listes dérivées de Lexique (B. New, C. Pallier et al., www.lexique.org) ;
 # New, Pallier, Brysbaert & Ferrand (2004), « Lexique 2 : A New French Lexical Database », Behavior Research Methods 36 (3) ;
 # New, Pallier, Schalchli, Bourgin & Gimenes (2026), « Lexique 4: a major upgrade of the Lexique French Lexical Database ».
 # Chaque ligne : mot (avec accents), tabulation, palier (1 : ≥ 5 par million ; 2 : ≥ 1 ; 3 : ≥ 0,1).
 # Licence : CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.fr), comme les données d'origine.
 aa	2
-ab	2
-aba	3
+ab	3
 abaissa	2
 abaissait	2
 abaissant	2
@@ -76,7 +76,7 @@ abbesse	3
 abbesses	3
 abbé	1
 abbés	3
-abc	2
+abc	3
 abcès	2
 abdication	3
 abdiqua	3
@@ -335,7 +335,6 @@ absurde	1
 absurdes	2
 absurdité	2
 absurdités	2
-abu	2
 abus	1
 abusa	3
 abusaient	3
@@ -936,7 +935,6 @@ actuelles	2
 actuels	2
 acuité	2
 acéphale	3
-acérola	3
 acéré	3
 acérée	3
 acérées	3
@@ -945,7 +943,6 @@ acétate	3
 acétone	3
 acétylène	2
 ad	2
-ada	2
 adage	3
 adages	3
 adagio	3
@@ -1497,7 +1494,6 @@ agacés	3
 agapes	3
 agate	3
 agates	3
-agathe	3
 agave	3
 agaves	3
 agaça	3
@@ -1896,7 +1892,6 @@ aisément	1
 aisés	3
 ait	1
 aixois	3
-ajax	3
 ajonc	3
 ajoncs	3
 ajourne	3
@@ -1951,15 +1946,12 @@ ajustée	3
 ajustées	3
 ajustés	3
 aka	3
-akan	3
 akkadien	3
 ako	3
 akvavit	3
-al	1
-ala	3
-alabama	2
+al	2
 alacrité	3
-alain	2
+alain	3
 alambic	3
 alambics	3
 alangui	3
@@ -2004,7 +1996,6 @@ alcazar	3
 alchimie	2
 alchimique	3
 alchimiste	2
-alcide	3
 alcides	3
 alcool	1
 alcoolique	1
@@ -2101,7 +2092,6 @@ alimentées	3
 alimentés	3
 alinéa	3
 alinéas	3
-alise	3
 alita	3
 aliter	3
 alité	3
@@ -2133,7 +2123,7 @@ allassent	3
 allegretto	3
 allegro	3
 alleluia	3
-allemagne	1
+allemagne	3
 allemand	1
 allemande	1
 allemandes	1
@@ -2268,8 +2258,7 @@ allégés	3
 alléluia	2
 allés	1
 allô	1
-alm	3
-alma	2
+alma	3
 almanach	3
 almanachs	3
 aloi	3
@@ -2296,14 +2285,13 @@ alpaguer	3
 alpagué	3
 alpe	3
 alpenstock	3
-alpes	2
+alpes	3
 alpestre	3
 alpestres	3
 alpha	1
 alphabet	2
 alphabets	3
 alphas	3
-alphonse	2
 alpin	3
 alpine	3
 alpines	3
@@ -2312,7 +2300,6 @@ alpiniste	3
 alpinistes	3
 alpins	3
 alprazolam	3
-alsace	3
 alsacien	2
 alsacienne	2
 alsaciens	3
@@ -2365,7 +2352,6 @@ alvin	2
 alvéole	3
 alvéoles	3
 alysse	3
-alzheimer	2
 alène	3
 alèse	3
 aléa	3
@@ -2385,7 +2371,6 @@ amaigri	3
 amaigrie	3
 amaigries	3
 amaigris	3
-amal	3
 amalgame	2
 amalgamer	3
 amalgames	3
@@ -2395,14 +2380,12 @@ amande	2
 amandes	2
 amandier	3
 amandiers	3
-amandine	3
 amanite	3
 amanites	3
 amant	1
 amante	2
 amantes	3
 amants	1
-amara	3
 amarante	3
 amarantes	3
 amaretto	3
@@ -2537,7 +2520,6 @@ amincie	3
 amincies	3
 amincir	3
 amincit	3
-amine	3
 aminés	3
 amiral	1
 amirale	3
@@ -2547,7 +2529,6 @@ amis	1
 amish	2
 amitié	1
 amitiés	1
-amma	3
 ammi	3
 ammoniac	3
 ammoniaque	3
@@ -2714,7 +2695,6 @@ amènes	1
 amère	1
 amèrement	2
 amères	2
-amélia	2
 améliorait	3
 améliorant	3
 améliore	1
@@ -2742,7 +2722,7 @@ américaine	1
 américains	1
 américano	3
 amérindien	3
-amérique	1
+amérique	3
 améthyste	3
 améthystes	3
 an	1
@@ -2786,7 +2766,6 @@ anarchique	3
 anarchisme	3
 anarchiste	2
 anars	3
-anas	3
 anastomose	3
 anathème	3
 anathèmes	3
@@ -2821,9 +2800,6 @@ andalous	3
 andalouse	3
 andalouses	3
 andante	3
-anders	2
-andes	3
-andi	2
 andouille	2
 andouiller	3
 andouilles	2
@@ -2841,7 +2817,6 @@ aneth	3
 ange	1
 angelot	3
 angelots	3
-angelus	2
 anges	1
 angine	2
 angines	3
@@ -2850,7 +2825,7 @@ anglaise	1
 anglaises	1
 angle	1
 angles	1
-angleterre	1
+angleterre	3
 anglican	3
 anglicane	3
 anglicans	3
@@ -2883,7 +2858,6 @@ angélique	2
 angéliques	3
 angélisme	3
 angélus	3
-ani	3
 anicroche	3
 anicroches	3
 aniline	3
@@ -2923,7 +2897,6 @@ ankylosé	3
 ankylosée	3
 ankylosées	3
 ankylosés	3
-anna	1
 annales	2
 annamite	3
 annamites	3
@@ -3116,7 +3089,6 @@ anémone	3
 anémones	2
 anévrisme	2
 anévrismes	3
-ao	3
 aorte	2
 aortique	3
 aout	3
@@ -3188,7 +3160,6 @@ aphasiques	3
 aphone	3
 aphones	3
 aphorismes	3
-aphrodite	2
 aphteuse	3
 api	3
 apiculteur	3
@@ -3220,7 +3191,6 @@ apocalypse	1
 apocryphe	3
 apogée	2
 apolitique	3
-apollon	2
 apologie	3
 apologue	3
 apoplexie	3
@@ -3549,7 +3519,6 @@ aqueux	3
 aquifère	3
 aquilin	3
 aquilon	3
-aquitaine	3
 ara	3
 arabe	1
 arabes	1
@@ -3564,7 +3533,6 @@ arachnide	3
 arachnides	3
 arachnéen	3
 aragonais	3
-arai	3
 araignée	1
 araignées	2
 aramon	3
@@ -3626,7 +3594,6 @@ archevêque	2
 archi	3
 archiatre	3
 archiduc	2
-archie	1
 archipel	2
 archipels	3
 architecte	1
@@ -3675,13 +3642,12 @@ argenté	2
 argentée	2
 argentées	2
 argentés	2
-argh	2
+argh	3
 argile	1
 argiles	3
 argileuse	3
 argileux	3
 argon	3
-argonautes	3
 argot	2
 argotique	3
 argotiques	3
@@ -3699,7 +3665,6 @@ arguments	1
 argumenté	3
 argus	3
 arguties	3
-ari	1
 aria	2
 arias	3
 aride	2
@@ -3707,7 +3672,6 @@ arides	2
 aridité	3
 aristo	3
 aristos	3
-arlequin	3
 arlequins	3
 arlésienne	3
 arma	3
@@ -3922,7 +3886,6 @@ arrosé	2
 arrosée	3
 arrosées	3
 arrosés	3
-arroyo	3
 arrêt	1
 arrêta	1
 arrêtai	2
@@ -3998,7 +3961,6 @@ artiste	1
 artistes	1
 artistique	1
 arts	1
-arty	3
 artère	1
 artères	2
 artéfact	3
@@ -4056,7 +4018,6 @@ asiatique	1
 asiatiques	2
 asile	1
 asiles	2
-askari	3
 asocial	3
 asociale	3
 asociaux	3
@@ -4469,7 +4430,6 @@ astéroïdes	2
 asu	3
 asymétrie	3
 asystolie	3
-ata	3
 atavique	3
 atavisme	3
 atchoum	3
@@ -4489,9 +4449,8 @@ athénienne	3
 athéniens	3
 atlante	3
 atlantes	3
-atlantique	2
+atlantique	3
 atlas	2
-atm	3
 atmosphère	1
 atoll	3
 atome	2
@@ -4900,8 +4859,6 @@ augurer	3
 augures	3
 auguste	2
 augustes	3
-augustin	3
-augustine	3
 augustins	3
 aulne	3
 aulnes	3
@@ -5152,7 +5109,6 @@ avenu	3
 avenue	1
 avenues	2
 avenus	3
-average	3
 averse	1
 averses	2
 aversion	2
@@ -5184,7 +5140,6 @@ aveuglée	2
 aveuglés	2
 aveux	1
 avez	1
-avi	2
 aviaire	3
 aviateur	2
 aviateurs	2
@@ -5309,7 +5264,6 @@ avérés	3
 award	2
 awards	2
 axe	1
-axel	2
 axes	3
 axial	3
 axillaire	3
@@ -5319,7 +5273,6 @@ axis	3
 axé	3
 axée	3
 ay	2
-aya	2
 ayahuasca	3
 ayan	3
 ayant	1
@@ -5393,7 +5346,6 @@ ba	2
 baba	2
 baballe	3
 babas	3
-babel	3
 babeurre	3
 babi	3
 babies	3
@@ -5413,7 +5365,6 @@ babouchka	2
 babouchkas	3
 babouin	2
 babouins	3
-babu	3
 baby	1
 babyfoot	3
 babylonien	3
@@ -5707,7 +5658,6 @@ balayé	2
 balayée	2
 balayées	3
 balayés	2
-balboa	2
 balbutia	2
 balbutiai	3
 balbutiais	3
@@ -5728,7 +5678,6 @@ baleinier	3
 baleiniers	3
 baleinière	3
 baleinés	3
-bali	2
 balinais	3
 balisaient	3
 balise	2
@@ -5743,7 +5692,6 @@ baliverne	3
 balivernes	2
 balkanique	3
 ball	2
-balla	3
 ballade	2
 ballades	3
 ballant	3
@@ -5797,7 +5745,7 @@ balsamines	3
 balsamique	3
 balte	3
 baltes	2
-balthazar	2
+balthazar	3
 baltique	3
 balto	3
 baltringue	3
@@ -5806,7 +5754,6 @@ baluchons	3
 balustrade	1
 balustre	3
 balustres	3
-balzac	3
 balzacien	3
 balèze	2
 balèzes	3
@@ -5889,7 +5836,7 @@ bangs	3
 banian	3
 banjo	2
 banjos	3
-bank	2
+bank	3
 banlieue	1
 banlieues	2
 banner	2
@@ -5965,7 +5912,6 @@ barbante	3
 barbantes	3
 barbants	3
 barbaque	2
-barbara	1
 barbare	1
 barbares	1
 barbarie	2
@@ -5986,7 +5932,7 @@ barbet	3
 barbette	3
 barbiche	2
 barbichu	3
-barbie	1
+barbie	3
 barbier	1
 barbiers	3
 barbies	3
@@ -6013,7 +5959,6 @@ barbus	2
 barca	3
 barcasse	3
 barcasses	3
-bard	3
 barda	2
 bardait	3
 bardane	3
@@ -6101,7 +6046,6 @@ barricadée	3
 barricadés	3
 barrie	3
 barrio	3
-barrios	3
 barrique	3
 barriques	3
 barris	3
@@ -6186,7 +6130,6 @@ bastilles	3
 bastingage	3
 bastion	2
 bastions	3
-bastogne	3
 baston	2
 bastonnade	3
 bastonne	3
@@ -6319,17 +6262,14 @@ baveuse	3
 baveuses	3
 baveux	2
 bavez	3
-bavière	3
 bavoir	3
 bavoirs	3
 bavure	2
 bavures	2
 bavé	2
-baxter	1
-bay	1
+bay	3
 bayadère	3
 bayadères	3
-bayan	3
 bayard	3
 bayer	3
 bayou	2
@@ -6344,9 +6284,9 @@ bazooka	3
 bazookas	3
 baïonnette	2
 bcbg	3
-bd	1
+bd	3
 be	1
-beach	1
+beach	3
 beagle	3
 bean	2
 beat	2
@@ -6360,7 +6300,6 @@ beauf	3
 beaufs	3
 beaujolais	3
 beaujolpif	3
-beauregard	3
 beauté	1
 beautés	2
 beauvais	3
@@ -6385,7 +6324,7 @@ bedeau	3
 bedon	3
 bedonnant	3
 bedonnants	3
-bee	2
+bee	3
 beefsteak	3
 beeper	3
 beffroi	3
@@ -6401,7 +6340,7 @@ belette	3
 belettes	3
 belge	1
 belges	2
-belgique	2
+belgique	3
 belladone	3
 belle	1
 bellement	3
@@ -6421,15 +6360,14 @@ ben	1
 bene	3
 bengali	3
 bengalis	3
-benjamin	1
+benjamin	3
 benjamine	3
 benjoin	3
 benne	2
 benner	3
 bennes	3
-benoît	2
+benoît	3
 benoîte	3
-bent	3
 bento	3
 benzine	3
 benzène	3
@@ -6452,7 +6390,6 @@ berceuses	3
 bercé	2
 bercée	2
 bercés	3
-berg	2
 berge	2
 berger	1
 bergerie	2
@@ -6463,7 +6400,6 @@ bergère	2
 bergères	2
 berk	2
 berle	3
-berlin	1
 berline	2
 berlines	3
 berlingot	3
@@ -6481,7 +6417,6 @@ bermuda	3
 bermudas	3
 berna	3
 bernaches	3
-bernard	1
 berne	2
 berner	2
 bernicles	3
@@ -6492,7 +6427,7 @@ berné	2
 bernée	3
 bernés	3
 berrichon	3
-bertha	2
+bertha	3
 berthe	3
 berzingue	3
 berça	3
@@ -6513,7 +6448,6 @@ besogneuse	3
 besogneux	3
 besoin	1
 besoins	1
-besson	3
 best	2
 bestiaire	3
 bestial	3
@@ -6526,8 +6460,6 @@ bestiole	2
 bestioles	2
 bestseller	3
 bet	3
-beth	1
-bets	3
 bette	2
 betterave	3
 betteraves	2
@@ -6730,7 +6662,7 @@ bilieuse	3
 bilieux	3
 bilingue	3
 bilingues	3
-bill	1
+bill	3
 billard	1
 billards	3
 bille	1
@@ -6742,7 +6674,7 @@ billions	3
 billot	2
 billots	3
 bills	3
-billy	1
+billy	3
 bim	3
 bimbo	3
 bimbos	3
@@ -6834,7 +6766,6 @@ bises	3
 bisexuel	3
 bisexuelle	3
 bisexuels	3
-bishop	1
 bismuth	3
 bison	2
 bisons	2
@@ -6901,7 +6832,7 @@ black	1
 blackjack	2
 blackout	3
 blacks	2
-blade	2
+blade	3
 blafard	2
 blafarde	2
 blafardes	3
@@ -6919,7 +6850,7 @@ blagueurs	3
 blagueuse	3
 blaguez	3
 blagué	3
-blair	1
+blair	3
 blairait	3
 blaire	3
 blaireau	2
@@ -7058,7 +6989,6 @@ blondie	2
 blondin	3
 blondinet	3
 blonds	1
-bloom	2
 bloqua	3
 bloquaient	3
 bloquais	3
@@ -7107,7 +7037,6 @@ bluffez	3
 bluffs	3
 bluffé	3
 bluffée	3
-blunt	2
 blush	3
 blâmable	3
 blâmaient	3
@@ -7140,11 +7069,11 @@ board	3
 boas	3
 boat	3
 boats	3
-bob	1
+bob	3
 bobard	3
 bobards	2
 bobbies	3
-bobby	1
+bobby	3
 bobettes	3
 bobinard	3
 bobine	2
@@ -7198,7 +7127,6 @@ boirions	3
 boirons	3
 boiront	3
 bois	1
-boise	3
 boiserie	3
 boiseries	2
 boisseau	3
@@ -7248,7 +7176,6 @@ bolivienne	3
 boliviens	3
 bolo	3
 bolognaise	3
-bologne	3
 bolos	3
 bols	2
 bolus	3
@@ -7291,7 +7218,7 @@ bonasse	3
 bonasses	3
 bonbecs	3
 bonbon	1
-bonbonne	2
+bonbonne	3
 bonbonnes	3
 bonbons	1
 bond	1
@@ -7363,7 +7290,6 @@ bonze	3
 bonzes	3
 boogie	2
 book	2
-booker	3
 bookmaker	2
 bookmakers	3
 books	3
@@ -7420,7 +7346,6 @@ borgnote	3
 borgnoté	3
 borie	3
 borin	3
-boris	1
 borna	3
 bornage	3
 bornai	3
@@ -7442,7 +7367,7 @@ bortsch	3
 boréal	3
 boréale	3
 boréales	3
-bosco	2
+bosco	3
 boscotte	3
 bosniaque	3
 bosniaques	3
@@ -7481,7 +7406,7 @@ bossues	3
 bossus	3
 bossué	3
 bossé	1
-boston	1
+boston	3
 bostonien	3
 bostoniens	3
 bot	3
@@ -7575,7 +7500,7 @@ bouda	3
 boudaient	3
 boudait	3
 boudant	3
-bouddha	1
+bouddha	3
 bouddhas	3
 bouddhisme	2
 bouddhiste	2
@@ -7714,7 +7639,6 @@ boulange	3
 boulanger	1
 boulangers	2
 boulangère	2
-boulard	3
 boulder	3
 boule	1
 bouleau	3
@@ -7951,7 +7875,6 @@ boîtier	2
 boîtiers	3
 brabant	3
 brabançon	3
-brace	3
 bracelet	1
 bracelets	2
 brachiale	3
@@ -8018,7 +7941,7 @@ brandillon	3
 brandir	2
 brandis	3
 brandit	2
-brandon	1
+brandon	3
 brandy	2
 branla	3
 branlaient	3
@@ -8171,7 +8094,7 @@ brides	3
 bridge	2
 bridgeait	3
 bridger	3
-bridges	2
+bridges	3
 bridon	3
 bridé	3
 bridée	3
@@ -8274,7 +8197,7 @@ briseuse	3
 brisez	2
 brisions	3
 brisons	3
-bristol	2
+bristol	3
 bristols	3
 brisure	3
 brisures	3
@@ -8288,7 +8211,6 @@ british	2
 brize	3
 brièvement	2
 brièveté	3
-broadcast	3
 broc	2
 brocante	3
 brocantes	3
@@ -8357,8 +8279,7 @@ bronzé	2
 bronzée	2
 bronzées	3
 bronzés	3
-brook	3
-brooks	1
+brooks	3
 broque	3
 broquille	3
 broquilles	3
@@ -8417,7 +8338,6 @@ broutilles	3
 brouté	3
 brownie	2
 brownies	2
-browning	2
 broya	3
 broyage	3
 broyaient	3
@@ -8530,7 +8450,7 @@ brèmes	3
 brève	1
 brèves	1
 bréchet	3
-brésil	1
+brésil	3
 brésilien	2
 brésiliens	2
 bréviaire	3
@@ -8582,7 +8502,6 @@ buccale	3
 bucco	3
 buche	3
 bucheron	3
-buck	1
 bucks	3
 bucolique	3
 bucoliques	3
@@ -8592,7 +8511,6 @@ budgets	2
 budgétaire	3
 bue	2
 bues	3
-buffalo	2
 buffet	1
 buffets	3
 buffle	2
@@ -8612,10 +8530,8 @@ bulbes	3
 bulbul	3
 bulgare	3
 bulgares	3
-bulgari	3
-bull	2
+bull	3
 bulla	3
-bullard	3
 bulldog	3
 bulldogs	3
 bulldozer	2
@@ -8667,7 +8583,7 @@ busard	3
 busards	3
 buse	2
 buses	3
-bush	1
+bush	3
 bushi	3
 bushido	3
 business	1
@@ -8683,8 +8599,7 @@ butaient	3
 butait	2
 butane	3
 butant	3
-butch	2
-butcher	3
+butch	3
 bute	2
 butent	3
 buter	1
@@ -8781,7 +8696,6 @@ bâillonnez	3
 bâillonné	3
 bâillonnée	3
 bâillé	3
-bâle	3
 bât	2
 bâtard	1
 bâtarde	3
@@ -8914,7 +8828,6 @@ bénitiers	3
 bénits	3
 bénouze	3
 bénédicité	3
-bénédicte	3
 bénédictin	3
 bénéfice	1
 bénéfices	1
@@ -9007,7 +8920,6 @@ cabaret	2
 cabaretier	3
 cabarets	2
 cabas	2
-cabe	2
 cabernet	3
 cabestan	3
 cabillaud	3
@@ -9041,7 +8953,6 @@ cabrait	3
 cabrant	3
 cabre	3
 cabrer	3
-cabrera	3
 cabrette	3
 cabri	3
 cabriole	3
@@ -9124,7 +9035,7 @@ cadavres	1
 caddie	2
 caddies	3
 caddy	2
-cade	2
+cade	3
 cadeau	1
 cadeaux	1
 cadenas	2
@@ -9265,7 +9176,6 @@ cal	1
 cala	2
 calabrais	3
 calade	3
-calais	3
 calait	3
 calamar	2
 calamars	3
@@ -9339,7 +9249,7 @@ calicot	3
 calicots	3
 califat	3
 calife	2
-californie	1
+californie	3
 calin	2
 calins	3
 call	2
@@ -9454,7 +9364,7 @@ cambrés	3
 cambuse	2
 cambute	3
 came	1
-camelot	2
+camelot	3
 camelote	2
 camelotes	3
 camelots	3
@@ -9538,7 +9448,7 @@ camés	2
 caméscope	3
 can	1
 cana	3
-canada	1
+canada	3
 canadien	2
 canadienne	2
 canadiens	2
@@ -9578,8 +9488,6 @@ cancrelats	3
 cancres	3
 cancéreuse	3
 cancéreux	3
-candace	2
-candela	3
 candeur	2
 candi	3
 candidat	1
@@ -9688,7 +9596,6 @@ cantonnée	3
 cantonnées	3
 cantonnés	3
 cantons	3
-cantor	3
 canular	2
 canulars	3
 canule	3
@@ -9708,7 +9615,6 @@ caparaçons	3
 cape	1
 capeline	2
 capelines	3
-capella	3
 capes	3
 capharnaüm	3
 capillaire	3
@@ -9725,7 +9631,7 @@ capitaux	2
 capiteuse	3
 capiteuses	3
 capiteux	3
-capitole	2
+capitole	3
 capiton	3
 capitonner	3
 capitonné	3
@@ -9737,7 +9643,6 @@ capitule	3
 capituler	2
 capitulez	3
 capitulé	2
-caplan	3
 capo	3
 capoeira	3
 capon	3
@@ -9811,7 +9716,6 @@ capucin	3
 capucine	3
 capucines	3
 capucins	3
-capulet	3
 capétien	3
 caque	3
 caquet	3
@@ -9823,7 +9727,7 @@ caquets	3
 caquette	3
 caquettent	3
 car	1
-cara	2
+cara	3
 carabas	3
 carabin	3
 carabine	1
@@ -9869,7 +9773,7 @@ caravaning	3
 caravelle	3
 caravelles	3
 caraïbe	3
-caraïbes	2
+caraïbes	3
 carbo	3
 carbon	3
 carbonara	3
@@ -9952,7 +9856,6 @@ caries	3
 carillon	2
 carillonne	3
 carillons	3
-carine	3
 caris	3
 caritatif	3
 caritatifs	3
@@ -9969,7 +9872,7 @@ carmel	3
 carmer	3
 carmes	3
 carmin	3
-carmine	2
+carmine	3
 carminée	3
 carminées	3
 carmélite	3
@@ -9988,10 +9891,8 @@ carnets	2
 carnier	3
 carnivore	3
 carnivores	3
-carole	2
-caroline	1
+caroline	3
 carolins	3
-caron	3
 carosse	3
 carotide	2
 carotides	3
@@ -10051,9 +9952,8 @@ cartables	2
 carte	1
 cartel	1
 cartels	2
-carter	1
+carter	2
 cartes	1
-cartier	3
 cartilage	3
 cartilages	3
 carton	1
@@ -10071,7 +9971,6 @@ cartoons	3
 cartouche	2
 cartouches	2
 cartésien	3
-cary	2
 carène	3
 carènes	3
 carénage	3
@@ -10081,7 +9980,6 @@ casa	2
 casait	3
 casanier	3
 casanière	3
-casanova	2
 casaque	2
 casaques	3
 casas	3
@@ -10155,7 +10053,6 @@ casseur	2
 casseurs	3
 casseuse	3
 cassez	1
-cassie	1
 cassiez	3
 cassine	3
 cassis	2
@@ -10178,7 +10075,6 @@ caster	3
 castes	3
 castillan	3
 castillane	3
-castille	3
 casting	2
 castings	3
 castor	2
@@ -10339,7 +10235,6 @@ cavité	2
 cavités	3
 caye	3
 cayenne	3
-caza	3
 caïd	2
 caïds	3
 caïman	3
@@ -10347,7 +10242,7 @@ caïmans	3
 caïque	2
 caïques	2
 cc	2
-cd	1
+cd	3
 cdr	3
 ce	1
 ceci	1
@@ -10399,7 +10294,7 @@ cendreuses	3
 cendreux	3
 cendrier	1
 cendriers	2
-cendrillon	2
+cendrillon	3
 cendré	3
 cendrée	3
 cendrées	3
@@ -10427,7 +10322,7 @@ centaines	1
 centaure	3
 centaures	3
 centenaire	2
-center	2
+center	3
 centime	1
 centimes	2
 centimètre	2
@@ -10455,7 +10350,6 @@ centurie	3
 centuries	3
 centurion	3
 centurions	3
-century	3
 cep	3
 cependant	1
 ceps	3
@@ -10666,7 +10560,6 @@ chameliers	3
 chamelle	3
 chamois	2
 champ	1
-champa	3
 champagne	1
 champenois	2
 champi	3
@@ -10807,7 +10700,6 @@ chapeauté	3
 chapeautée	3
 chapeautés	3
 chapeaux	1
-chapel	3
 chapelain	3
 chapelet	1
 chapelets	2
@@ -10888,10 +10780,10 @@ charités	3
 charivari	3
 charlatan	2
 charlatans	3
-charleston	2
+charleston	3
 charlot	3
 charlots	3
-charlotte	1
+charlotte	3
 charmaient	3
 charmait	3
 charmant	1
@@ -10966,7 +10858,7 @@ chartreuse	3
 chartreux	3
 charybde	3
 chas	3
-chase	1
+chase	3
 chassa	2
 chassai	3
 chassaient	2
@@ -11005,7 +10897,6 @@ chasteté	2
 chasuble	3
 chasubles	3
 chat	1
-chata	3
 chatière	3
 chaton	1
 chatons	2
@@ -11183,10 +11074,10 @@ cherchés	3
 chergui	3
 cherokee	3
 cherokees	3
-cherry	2
+cherry	3
 chers	1
 cherté	3
-chester	2
+chester	3
 cheval	1
 chevalerie	2
 chevalet	2
@@ -11238,8 +11129,7 @@ chevrote	3
 chevroter	3
 chevrotine	3
 chevêche	3
-cheyenne	2
-cheyennes	3
+cheyenne	3
 chez	1
 chi	1
 chia	3
@@ -11282,7 +11172,7 @@ chiches	3
 chichi	2
 chichis	2
 chick	2
-chico	2
+chico	3
 chicore	3
 chicorée	3
 chicorées	3
@@ -11350,10 +11240,9 @@ chimpanzés	3
 chimère	2
 chimères	2
 chimérique	3
-chin	2
 china	2
 chinchilla	3
-chine	1
+chine	3
 chiner	3
 chinetoque	3
 chineur	3
@@ -11380,7 +11269,6 @@ chipolatas	3
 chipotait	3
 chipote	3
 chipoter	3
-chippewa	3
 chips	1
 chipé	3
 chiquait	3
@@ -11450,7 +11338,6 @@ choisît	3
 choit	3
 choix	1
 choléra	2
-chong	3
 chop	3
 chopait	3
 chope	2
@@ -11531,7 +11418,7 @@ choyer	3
 choyé	3
 choyée	3
 choyés	3
-christ	1
+christ	2
 christique	3
 christmas	2
 christs	3
@@ -11583,8 +11470,6 @@ chuinté	3
 chulo	3
 chum	2
 chums	3
-chunk	3
-chunky	3
 churro	3
 churros	3
 chut	1
@@ -11596,7 +11481,6 @@ chuter	2
 chutes	2
 chutney	3
 chuté	2
-chypre	3
 châle	1
 châles	2
 châlit	3
@@ -11613,7 +11497,6 @@ châteaux	1
 châtelain	2
 châtelaine	3
 châtelains	3
-châtelet	3
 châtiait	3
 châtie	3
 châtier	2
@@ -11883,7 +11766,7 @@ citronné	3
 citrons	2
 citrouille	2
 citrus	3
-city	1
+city	2
 cité	1
 citée	3
 citées	3
@@ -12001,7 +11884,6 @@ claqué	1
 claquée	3
 claquées	3
 claqués	3
-clarence	2
 clarifie	3
 clarifier	2
 clarifiez	3
@@ -12009,7 +11891,6 @@ clarifions	3
 clarifié	3
 clarines	3
 clarinette	2
-clarisse	3
 clarisses	3
 clarté	1
 clartés	2
@@ -12039,7 +11920,7 @@ classé	2
 classée	2
 classées	2
 classés	2
-claude	1
+claude	2
 claudicant	3
 clause	2
 clauses	3
@@ -12049,7 +11930,6 @@ clavicule	2
 clavicules	3
 clavier	2
 claviers	3
-clavin	3
 claymore	3
 claymores	3
 clayonnée	3
@@ -12109,7 +11989,6 @@ climatisée	3
 climats	2
 climax	3
 clin	1
-cline	3
 clinicat	3
 clinicien	3
 clinique	1
@@ -12138,7 +12017,6 @@ clito	3
 clitoris	3
 clivage	3
 clivages	3
-clive	2
 cloaque	2
 clochait	2
 clochant	3
@@ -12247,7 +12125,7 @@ clôtures	2
 clôturé	3
 clôturée	3
 cm	1
-co	2
+co	3
 coach	1
 coache	3
 coacher	3
@@ -12271,7 +12149,6 @@ coassaient	3
 coassement	3
 coat	3
 coaxial	3
-cob	3
 cobalt	2
 cobaye	2
 cobayes	2
@@ -12402,7 +12279,6 @@ cognés	3
 cohabite	3
 cohabitent	3
 cohabiter	3
-cohen	1
 cohorte	2
 cohortes	3
 cohue	2
@@ -12473,12 +12349,11 @@ coli	3
 colibri	3
 colibris	3
 colimaçon	3
-colin	1
+colin	3
 colique	3
 coliques	3
 colis	1
 colistier	3
-colisée	3
 colite	3
 coll	3
 colla	2
@@ -12586,7 +12461,6 @@ colombiens	2
 colombier	3
 colombine	3
 colombins	3
-colombo	3
 colon	2
 colonel	1
 colonelle	3
@@ -12645,7 +12519,6 @@ colporte	3
 colporter	3
 colporteur	3
 cols	2
-colson	3
 colt	2
 coltan	3
 coltin	3
@@ -12670,7 +12543,6 @@ com	2
 coma	1
 comac	3
 comanche	3
-comanches	3
 comandant	3
 comas	3
 comateuse	3
@@ -13185,7 +13057,6 @@ concevez	3
 concevoir	1
 concevons	3
 concevrait	3
-concha	3
 conchier	3
 concierge	1
 concierges	2
@@ -13468,7 +13339,6 @@ conférer	2
 conféré	3
 conférée	3
 conférés	3
-cong	3
 conga	3
 conge	3
 congeler	2
@@ -13478,7 +13348,6 @@ congelées	3
 congelés	3
 congestion	2
 congestive	3
-congo	2
 congolais	3
 congolaise	3
 congres	3
@@ -13571,7 +13440,6 @@ conneries	1
 connes	3
 connexion	1
 connexions	2
-connie	1
 connivence	2
 connu	1
 connue	1
@@ -14159,17 +14027,15 @@ conçues	3
 conçurent	3
 conçus	2
 conçut	3
-cook	2
+cook	3
 cookie	1
 cookies	1
 cool	1
-cooler	3
 coolie	3
 coolies	3
 coolitude	3
 coolos	3
 cools	2
-coop	2
 coopère	2
 coopèrent	3
 coopères	3
@@ -14251,7 +14117,7 @@ coquine	2
 coquines	3
 coquins	2
 cor	2
-cora	2
+cora	3
 corail	2
 coralliens	3
 coran	2
@@ -14281,7 +14147,6 @@ cordiers	3
 cordiforme	3
 cordillère	3
 cordite	3
-cordoba	3
 cordon	1
 cordonnet	3
 cordonnets	3
@@ -14441,7 +14306,6 @@ corvettes	3
 corvée	1
 corvées	2
 coryza	3
-corée	1
 coréen	2
 coréenne	2
 coréennes	3
@@ -14512,7 +14376,6 @@ cotres	3
 cottage	2
 cottages	3
 cotte	2
-cotter	3
 cottes	3
 coté	1
 cotée	3
@@ -15217,7 +15080,6 @@ criblée	3
 criblées	3
 criblés	3
 cric	2
-crick	3
 cricket	2
 crickets	3
 cricoïde	3
@@ -15255,7 +15117,6 @@ crique	2
 criques	3
 criquet	3
 criquets	2
-criquette	2
 cris	1
 crise	1
 criser	3
@@ -15556,7 +15417,6 @@ crèches	3
 crème	1
 crèmerie	3
 crèmes	2
-crète	3
 crève	1
 crèvent	2
 crèvera	3
@@ -15660,7 +15520,6 @@ crépue	3
 crépues	3
 crépus	3
 crépuscule	1
-crésus	3
 crésyl	3
 crétacé	3
 crétin	1
@@ -15695,7 +15554,6 @@ crût	3
 cs	3
 cuadrilla	3
 cuatro	3
-cuba	1
 cubage	3
 cubain	2
 cubaine	3
@@ -15926,7 +15784,7 @@ cuves	2
 cuvette	1
 cuvettes	3
 cuvée	3
-cv	1
+cv	3
 cyan	3
 cyanose	3
 cyanosé	3
@@ -16065,7 +15923,7 @@ cérébraux	2
 cérémonial	2
 cérémonie	1
 cérémonies	2
-césar	1
+césar	3
 césarienne	2
 césars	3
 césium	3
@@ -16110,16 +15968,13 @@ dada	2
 dadais	3
 dadas	3
 daemon	3
-daffy	3
-dag	3
 dague	2
 dagues	3
 daguet	3
 dah	3
-dahlia	2
+dahlia	3
 dahlias	2
 dahu	3
-dai	2
 daigna	3
 daignaient	3
 daignait	3
@@ -16138,12 +15993,9 @@ daiquiri	3
 daiquiris	3
 dais	2
 dakin	3
-dakota	2
 dal	3
-dale	1
-dalla	3
+dale	3
 dallage	2
-dallas	1
 dalle	1
 dalles	1
 dallé	3
@@ -16154,11 +16006,10 @@ dalmate	3
 dalmatien	3
 dalmatiens	3
 dalmatique	3
-dalton	2
 daltonien	3
 dam	2
 damages	3
-damas	2
+damas	3
 damassé	3
 damassée	3
 damassées	3
@@ -16179,7 +16030,7 @@ damnée	2
 damnées	3
 damnés	2
 damoiselle	3
-dan	1
+dan	3
 dance	1
 dancing	2
 dancings	3
@@ -16246,7 +16097,6 @@ dardé	3
 dardée	3
 dardées	3
 dardés	3
-darin	3
 darjeeling	3
 dark	2
 darknet	3
@@ -16259,7 +16109,6 @@ dart	3
 darwinien	3
 darwinisme	3
 das	2
-dash	2
 data	1
 dataient	3
 datait	2
@@ -16310,7 +16159,6 @@ dealeurs	3
 dealeuse	3
 deals	3
 dealé	3
-deb	1
 debout	1
 debriefing	3
 debrouille	3
@@ -16322,7 +16170,6 @@ dehors	1
 dei	3
 dej	3
 del	1
-delaine	3
 delco	3
 delirium	3
 delta	1
@@ -16467,7 +16314,6 @@ descente	1
 descentes	2
 descriptif	3
 desdits	3
-desi	3
 desiderata	3
 design	2
 designer	2
@@ -16574,7 +16420,6 @@ deux	1
 deuxième	1
 deuxièmes	3
 deuzio	3
-deva	3
 devaient	1
 devais	1
 devait	1
@@ -16657,7 +16502,6 @@ deviser	3
 devises	2
 devoir	1
 devoirs	1
-devon	2
 devons	1
 devra	1
 devrai	1
@@ -16676,7 +16520,6 @@ dextre	3
 dextérité	2
 dey	2
 deçà	2
-dg	3
 dhampire	3
 dharma	2
 dia	2
@@ -16724,7 +16567,7 @@ diamants	1
 diamanté	3
 diams	3
 diamètre	2
-diane	1
+diane	3
 diantre	3
 diapason	3
 diaphane	2
@@ -16913,7 +16756,6 @@ diminué	2
 diminuée	3
 diminuées	3
 diminués	3
-dina	2
 dinait	3
 dinar	3
 dinars	3
@@ -16932,7 +16774,7 @@ dinguer	3
 dinguerie	3
 dingues	1
 dinka	3
-dino	2
+dino	3
 dinosaure	2
 dinosaures	2
 diné	3
@@ -17012,7 +16854,6 @@ dirigée	2
 dirigées	3
 dirigés	2
 dirions	3
-dirk	2
 dirlo	3
 dirons	2
 diront	1
@@ -17487,7 +17328,6 @@ dodu	2
 dodue	3
 dodues	3
 dodus	3
-doe	2
 dog	2
 doge	2
 doges	3
@@ -17512,7 +17352,6 @@ dojo	2
 dol	3
 dolby	3
 dolce	3
-dole	3
 dolent	3
 dolente	3
 dolents	3
@@ -17638,7 +17477,6 @@ doping	3
 doppler	3
 dopé	3
 dopés	3
-dora	2
 dorade	3
 dorades	3
 dorait	3
@@ -17646,7 +17484,6 @@ dorant	3
 dore	3
 dorent	3
 dorer	3
-dori	3
 doriques	3
 doris	1
 dorlotait	3
@@ -17790,7 +17627,7 @@ doudounes	3
 doue	3
 douelles	3
 douer	3
-douglas	1
+douglas	3
 douille	2
 douiller	3
 douilles	2
@@ -17846,7 +17683,6 @@ douée	1
 douées	3
 doués	2
 down	1
-downs	3
 downtown	3
 doyen	1
 doyenne	3
@@ -17906,7 +17742,7 @@ drapait	3
 drape	3
 drapeau	1
 drapeaux	1
-draper	2
+draper	3
 draperie	3
 draperies	3
 drapier	3
@@ -17919,7 +17755,6 @@ drapés	3
 drastique	3
 drastiques	3
 drayer	3
-dread	3
 dreadlocks	3
 dressa	2
 dressage	2
@@ -18052,13 +17887,11 @@ dugland	3
 dugong	3
 dulcinée	3
 dull	3
-dundee	3
 dune	2
 dunes	1
 dunette	3
 dunk	3
 dunker	3
-dunkerque	3
 duo	2
 duodénum	3
 duos	3
@@ -18076,7 +17909,6 @@ dupliqué	3
 dupé	2
 dupée	3
 dupés	3
-duque	3
 duquel	1
 dur	1
 dura	1
@@ -18088,7 +17920,6 @@ duraille	2
 durait	2
 duralumin	3
 durant	1
-duras	3
 durci	2
 durcie	2
 durcies	3
@@ -18111,7 +17942,6 @@ dureront	3
 dures	1
 dureté	1
 duretés	3
-durham	3
 durian	3
 durillon	3
 durillons	3
@@ -20976,9 +20806,7 @@ dûment	2
 dûmes	3
 dûs	3
 dût	2
-eagle	2
-eagles	2
-earl	1
+eagle	3
 eau	1
 eaux	1
 ecchymose	3
@@ -20989,7 +20817,7 @@ ecstas	3
 ecstasy	2
 ectoplasme	3
 eczéma	2
-ed	1
+ed	3
 edelweiss	3
 efface	1
 effacement	2
@@ -21171,7 +20999,6 @@ eiders	3
 eidétique	3
 ein	3
 eins	3
-einstein	1
 eldorado	3
 elfe	2
 elfes	2
@@ -23235,7 +23062,6 @@ esgourder	3
 esgourdes	3
 eskimo	3
 eskimos	3
-esmeralda	2
 espace	1
 espacement	3
 espacent	3
@@ -23554,7 +23380,6 @@ européen	2
 européenne	1
 européens	1
 euros	1
-eurovision	3
 eurêka	3
 eus	1
 eusse	2
@@ -23563,7 +23388,6 @@ eusses	3
 eussiez	3
 eussions	3
 eussé	3
-eustache	3
 eut	1
 euthanasie	3
 euthanasié	3
@@ -24559,7 +24383,6 @@ faons	3
 faquin	3
 far	2
 farad	3
-faraday	2
 faramineux	3
 farandole	3
 farandoles	3
@@ -24603,12 +24426,10 @@ farfouille	3
 farfouillé	3
 faribole	3
 fariboles	3
-farina	3
 farine	1
 farines	3
 farineuse	3
 farineux	3
-farmer	2
 farniente	3
 faro	3
 farouche	1
@@ -24785,7 +24606,6 @@ faxe	3
 faxer	3
 faxez	3
 faxé	3
-fay	2
 fayard	3
 fayot	3
 fayoter	3
@@ -24881,7 +24701,6 @@ fentanyl	3
 fente	1
 fentes	2
 fenton	2
-fenwick	3
 fenêtre	1
 fenêtres	1
 fer	1
@@ -24958,7 +24777,6 @@ ferret	3
 ferrets	3
 ferreux	3
 ferries	3
-ferro	3
 ferron	3
 ferronnier	3
 ferrures	3
@@ -25133,7 +24951,7 @@ fieffée	3
 fieffés	3
 fiefs	3
 fiel	2
-field	2
+field	3
 fielleuse	3
 fielleuses	3
 fielleux	3
@@ -25156,8 +24974,7 @@ fifre	3
 fifrelin	3
 fifres	3
 fifty	3
-fig	3
-figaro	2
+figaro	3
 fige	2
 figea	2
 figeaient	3
@@ -25348,7 +25165,6 @@ finasser	3
 finaud	3
 finaude	3
 finaux	3
-finch	1
 fine	1
 finement	2
 fines	1
@@ -25653,7 +25469,6 @@ flic	1
 flicaille	3
 flicard	3
 flicards	3
-flicka	3
 flics	1
 flingage	3
 flingot	3
@@ -25666,7 +25481,6 @@ flingueur	3
 flinguez	3
 flingué	2
 flinguée	3
-flint	2
 flip	2
 flippais	3
 flippait	3
@@ -25698,7 +25512,6 @@ flirtez	3
 flirtiez	3
 flirts	3
 flirté	2
-flo	2
 floc	2
 floches	3
 flocon	2
@@ -25709,7 +25522,6 @@ flonflons	3
 flood	3
 flop	3
 flopée	3
-flora	2
 floraison	2
 floraisons	3
 floral	3
@@ -25717,12 +25529,11 @@ florale	3
 florales	3
 floraux	3
 flore	2
-florence	1
 florentin	3
 florentine	3
 florentins	3
-flores	2
-floride	1
+flores	3
+floride	3
 florin	3
 florins	2
 florissant	3
@@ -25979,7 +25790,6 @@ fonçait	2
 fonçant	2
 fonçons	3
 food	2
-foods	3
 foot	1
 football	1
 footing	3
@@ -26024,7 +25834,6 @@ forcées	2
 forcément	1
 forcés	2
 fore	3
-foreman	2
 forer	2
 forestier	2
 forestiers	2
@@ -26050,7 +25859,6 @@ forgé	2
 forgée	3
 forgées	3
 forgés	3
-fork	3
 forma	2
 formaient	1
 formais	3
@@ -26402,8 +26210,7 @@ foutue	1
 foutues	2
 foutument	3
 foutus	1
-fox	1
-foxe	3
+fox	3
 foxtrot	3
 foyard	3
 foyer	1
@@ -26466,8 +26273,6 @@ framboise	2
 framboises	3
 frame	3
 franc	1
-franca	3
-francfort	2
 franche	1
 franches	2
 franchi	1
@@ -26502,7 +26307,6 @@ frangé	3
 frangée	3
 frangées	3
 frangés	3
-franklin	1
 franque	2
 franques	3
 franquette	3
@@ -26614,8 +26418,7 @@ frelon	3
 frelons	3
 freluquet	3
 freluquets	3
-french	1
-frenchie	3
+french	3
 fresque	2
 fresques	2
 fret	3
@@ -26873,7 +26676,6 @@ frustrées	3
 frustrés	2
 frère	1
 frères	1
-frédéric	2
 frégate	2
 frégates	3
 frémi	3
@@ -26935,7 +26737,6 @@ frôlée	3
 frôlés	3
 fs	3
 ft	3
-ftp	3
 fuchsia	3
 fuchsias	3
 fucker	3
@@ -26976,7 +26777,6 @@ fuite	1
 fuiter	3
 fuites	2
 fuité	3
-fulcrum	3
 fulgurance	3
 fulgurant	2
 fulgurante	2
@@ -26984,7 +26784,6 @@ fulgurants	3
 fulguré	3
 fuligineux	3
 full	2
-fuller	2
 fulmina	3
 fulminait	3
 fulminant	3
@@ -27081,7 +26880,6 @@ furieuse	1
 furieuses	2
 furieux	1
 furioso	3
-furlong	3
 furoncle	3
 furoncles	3
 furtif	2
@@ -27099,7 +26897,6 @@ fusait	3
 fusant	3
 fusante	3
 fusants	3
-fusco	3
 fuse	3
 fuseau	3
 fuseaux	3
@@ -27354,7 +27151,6 @@ gabarits	3
 gabe	1
 gabegie	3
 gabier	3
-gable	3
 gables	3
 gabonais	3
 gachette	3
@@ -27425,7 +27221,7 @@ gaiement	1
 gaies	2
 gaieté	1
 gaietés	3
-gail	1
+gail	3
 gaillard	1
 gaillarde	3
 gaillardes	3
@@ -27481,7 +27277,6 @@ galipette	3
 galipettes	2
 gallant	3
 galle	3
-galles	2
 gallium	3
 gallo	2
 gallois	2
@@ -27598,8 +27393,6 @@ ganté	3
 gantée	2
 gantées	3
 gantés	3
-gao	2
-gap	3
 gapette	3
 gara	3
 garage	1
@@ -27671,7 +27464,6 @@ garent	3
 garer	1
 gares	2
 garez	2
-gargantua	3
 gargarise	3
 gargariser	3
 gargarisme	3
@@ -27739,7 +27531,7 @@ gastrite	3
 gastro	3
 gastronome	3
 gate	3
-gates	2
+gates	3
 gauche	1
 gauchement	2
 gaucher	2
@@ -27770,17 +27562,14 @@ gauleiter	3
 gauler	3
 gaules	3
 gaulis	3
-gaulle	3
 gaullisme	3
 gaulliste	2
 gaullistes	2
 gaulois	2
 gauloise	2
 gauloises	2
-gault	3
 gaulé	3
 gaulée	3
-gauss	3
 gaussaient	3
 gaussait	3
 gausse	3
@@ -27854,7 +27643,6 @@ geins	3
 geint	3
 geisha	2
 geishas	3
-gekko	3
 gel	1
 gela	3
 gelaient	3
@@ -27869,7 +27657,6 @@ gelé	1
 gelée	1
 gelées	2
 gelés	2
-gemma	2
 gemme	3
 gemmes	3
 gencive	3
@@ -27878,7 +27665,6 @@ gendarme	1
 gendarmes	1
 gendre	1
 gendres	3
-genet	3
 genevois	3
 genevoises	3
 genièvre	2
@@ -27922,7 +27708,7 @@ gercée	3
 gercées	3
 gercés	3
 germain	2
-germaine	2
+germaine	3
 germaines	3
 germains	2
 germait	3
@@ -27955,13 +27741,12 @@ geôlières	3
 ghetto	2
 ghettos	3
 ghost	2
-ghosts	3
 ghât	3
 gi	2
 giaour	3
 giaours	3
 gibbon	3
-gibbons	2
+gibbons	3
 gibecière	3
 gibecières	3
 gibelet	3
@@ -28023,11 +27808,9 @@ gigotent	3
 gigoter	3
 gigots	3
 gigue	3
-gila	3
-gilbert	1
+gilbert	3
 gilet	1
 gilets	2
-gill	2
 gilles	2
 gimmick	3
 gin	1
@@ -28070,7 +27853,6 @@ gisent	3
 gisquette	3
 gisquettes	3
 git	3
-gita	3
 gitan	2
 gitane	2
 gitanes	2
@@ -28207,8 +27989,6 @@ globulaire	3
 globule	3
 globules	2
 globuleux	2
-glock	2
-glocks	3
 gloire	1
 gloires	2
 glop	3
@@ -28299,7 +28079,6 @@ gober	2
 goberge	3
 gobes	3
 gobette	3
-gobi	3
 gobé	2
 goda	3
 godasse	3
@@ -28349,7 +28128,6 @@ golfeurs	3
 golfeuse	3
 golfs	3
 golgotha	3
-goliath	2
 gombo	3
 gomina	3
 gominé	3
@@ -28415,7 +28193,6 @@ gonze	2
 gonzes	2
 gonzesse	1
 gonzesses	1
-gonzo	3
 good	1
 goodies	3
 goofy	3
@@ -28424,7 +28201,6 @@ googler	3
 googlé	3
 goon	3
 gopher	3
-gopi	3
 gord	3
 gordien	3
 gore	2
@@ -28455,7 +28231,6 @@ goth	3
 gothique	2
 gothiques	2
 goths	3
-goto	3
 gouache	3
 gouaches	3
 gouailla	3
@@ -28613,7 +28388,7 @@ goûtée	3
 goûtées	3
 goûtés	3
 gr	3
-graal	2
+graal	3
 grab	3
 grabat	3
 grabataire	3
@@ -28643,7 +28418,6 @@ graduée	3
 gradé	2
 gradée	3
 gradés	2
-graff	3
 graffiti	2
 graffitis	2
 graffito	3
@@ -28781,7 +28555,6 @@ gratuite	1
 gratuites	2
 gratuits	2
 gratuité	3
-grau	3
 grava	3
 gravaient	3
 gravais	3
@@ -28830,14 +28603,14 @@ gravé	1
 gravée	2
 gravées	2
 gravés	2
-gray	1
+gray	3
 grec	1
 grecque	1
 grecques	2
 grecs	1
 gredin	3
 gredins	3
-green	1
+green	2
 greens	3
 greffant	3
 greffe	1
@@ -29007,7 +28780,6 @@ grincheux	2
 grincèrent	3
 grincé	3
 grind	3
-grinder	3
 gringalet	3
 gringalets	3
 gringo	2
@@ -29330,7 +29102,6 @@ guignols	2
 guignon	3
 guilde	2
 guili	3
-guillaume	2
 guille	3
 guilledou	3
 guillemets	2
@@ -29370,13 +29141,10 @@ guitariste	2
 guitoune	2
 guitounes	2
 gujarati	3
-gulliver	3
 gum	3
 gun	2
-gunga	3
 guns	3
 guppy	3
-gupta	2
 guru	3
 gus	1
 gustatives	3
@@ -29766,7 +29534,6 @@ hacké	3
 haddock	3
 hadj	3
 hadji	2
-hafiz	3
 hagard	2
 hagarde	2
 hagardes	3
@@ -29792,7 +29559,6 @@ halait	3
 halal	3
 halant	3
 halcyon	3
-hale	2
 haleine	1
 haleines	3
 halent	3
@@ -29838,7 +29604,6 @@ halé	3
 hamac	2
 hamacs	3
 hamada	3
-hambourg	2
 hamburger	1
 hamburgers	2
 hameau	2
@@ -29871,7 +29636,6 @@ hangars	2
 hanneton	2
 hannetons	2
 hanoukka	3
-hans	1
 hanta	3
 hantaient	3
 hantait	2
@@ -29906,7 +29670,6 @@ happée	3
 happées	3
 happés	3
 haque	3
-hara	3
 harakiri	3
 haram	3
 harangua	3
@@ -29997,7 +29760,7 @@ harponneur	3
 harponné	3
 harponnée	3
 harpons	3
-hart	1
+hart	3
 hasard	1
 hasarda	3
 hasardai	3
@@ -30016,7 +29779,6 @@ haschich	3
 haschisch	3
 hash	3
 hashtag	3
-hata	3
 hauban	3
 haubans	3
 haubanés	3
@@ -30051,7 +29813,7 @@ hauteur	1
 hauteurs	1
 hauts	1
 hava	3
-havane	2
+havane	3
 havanes	3
 have	1
 havre	2
@@ -30062,7 +29824,6 @@ hawaïen	3
 hawaïenne	3
 hawaïennes	3
 hawaïens	3
-hayes	1
 hayon	3
 hazard	3
 haï	2
@@ -30113,8 +29874,7 @@ hennin	3
 hennissant	3
 hennit	3
 henné	3
-henry	1
-hentai	3
+henry	3
 hep	2
 herbage	3
 herbages	3
@@ -30132,7 +29892,7 @@ herboriste	3
 herbu	3
 herbue	3
 herbues	3
-hercule	2
+hercule	3
 hercules	3
 herculéen	3
 herculéens	3
@@ -30148,7 +29908,6 @@ herpès	2
 herse	3
 herses	3
 hertz	3
-hesse	3
 heu	1
 heur	3
 heure	1
@@ -30204,10 +29963,8 @@ hideuses	3
 hideux	2
 hier	1
 high	1
-highland	2
 highlander	3
-highlands	3
-highway	2
+highway	3
 hijab	3
 hilaire	3
 hilarant	1
@@ -30218,7 +29975,6 @@ hilare	2
 hilares	2
 hilarité	2
 hile	3
-himalaya	2
 hin	3
 hindi	3
 hindou	2
@@ -30315,12 +30071,11 @@ hockey	1
 hockeyeur	3
 hodja	3
 hoirie	3
-hola	2
+hola	3
 holding	3
 holdings	3
 holistique	3
 hollandais	2
-hollande	2
 holocauste	2
 hologramme	2
 holster	3
@@ -30334,7 +30089,6 @@ homeland	3
 homes	3
 homicide	1
 homicides	2
-homie	2
 hommage	1
 hommages	2
 hommasse	3
@@ -30360,7 +30114,6 @@ homélies	3
 homérique	3
 homériques	3
 hon	3
-hong	2
 hongre	3
 hongrois	2
 hongroise	3
@@ -30402,7 +30155,7 @@ hontes	3
 honteuse	2
 honteuses	2
 honteux	1
-hood	2
+hood	3
 hooligan	3
 hooligans	3
 hop	1
@@ -30632,7 +30385,6 @@ hun	3
 hune	3
 hunier	3
 huns	3
-hunter	1
 hunters	3
 huppe	3
 huppé	3
@@ -30782,7 +30534,6 @@ hâté	3
 hâtée	3
 hâve	3
 hâves	3
-hè	3
 hèle	3
 hère	3
 hères	3
@@ -30824,7 +30575,6 @@ hélice	2
 hélices	2
 hélico	1
 hélicos	2
-hélios	3
 héliotrope	3
 héliport	3
 hélium	2
@@ -30929,7 +30679,6 @@ hésitèrent	3
 hésité	1
 hétéro	1
 hétéros	2
-hê	3
 hêtraie	3
 hêtre	2
 hêtres	2
@@ -30945,11 +30694,8 @@ hôtels	1
 hôtes	1
 hôtesse	1
 hôtesses	2
-iba	3
 ibis	3
-ibm	2
 ibn	3
-ibo	3
 ibuprofène	3
 ibérique	3
 iceberg	2
@@ -30987,7 +30733,6 @@ idiotes	2
 idiotie	2
 idioties	2
 idiots	1
-ido	3
 idoine	3
 idoines	3
 idole	1
@@ -31088,7 +30833,6 @@ illogisme	3
 illumina	2
 illuminait	2
 illuminant	3
-illuminati	3
 illumine	2
 illuminent	3
 illuminer	2
@@ -31158,7 +30902,6 @@ imagées	3
 imagés	3
 imam	2
 imams	3
-iman	3
 imbattable	2
 imberbe	3
 imberbes	3
@@ -31815,7 +31558,7 @@ incurver	3
 incurvé	3
 incurvée	3
 incurvés	3
-inde	1
+inde	3
 indemne	2
 indemnes	3
 indemniser	3
@@ -31823,7 +31566,7 @@ indemnisé	3
 indemnisés	3
 indemnité	2
 indemnités	2
-indes	2
+indes	3
 index	1
 indexé	3
 indic	1
@@ -32999,7 +32742,6 @@ irisa	3
 irisait	3
 irisation	3
 irisations	3
-irish	3
 irisé	3
 irisée	3
 irisées	3
@@ -33081,7 +32823,6 @@ islamiste	3
 islamistes	3
 islandais	3
 islandaise	3
-isle	3
 isocèle	3
 isola	3
 isolaient	3
@@ -33156,18 +32897,17 @@ jacasses	3
 jachère	3
 jacinthe	3
 jacinthes	3
-jack	1
+jack	2
 jacket	3
 jackets	3
 jackpot	2
 jacks	3
-jacob	1
+jacob	3
 jacobins	3
 jacobite	3
 jacot	3
 jacquard	3
 jacque	3
-jacqueline	2
 jacques	1
 jacquet	2
 jacquier	3
@@ -33225,7 +32965,6 @@ jalousé	3
 jaloux	1
 jam	2
 jamais	1
-jamal	2
 jamaïcain	3
 jamaïcaine	3
 jamaïcains	3
@@ -33238,19 +32977,16 @@ jambières	3
 jambon	1
 jambonneau	3
 jambons	2
-jammer	3
 jams	3
-jan	1
 janissaire	3
 jans	3
 jansénisme	3
 janséniste	3
 jante	3
 jantes	3
-janus	2
 janvier	1
 jap	3
-japon	1
+japon	3
 japonais	1
 japonaise	1
 japonaises	2
@@ -33295,9 +33031,9 @@ jaser	2
 jaseur	3
 jasmin	2
 jasmins	3
-jason	1
+jason	3
 jaspe	3
-jasper	1
+jasper	3
 jaspine	3
 jatte	3
 jattes	3
@@ -33339,23 +33075,19 @@ jazzman	3
 jazzy	3
 je	1
 jean	1
-jeanne	1
 jeanneton	3
 jeannette	3
 jeannettes	3
-jeannot	3
 jeans	2
 jeep	2
 jeeps	3
-jemadar	3
-jenny	1
+jenny	2
 jerez	3
 jerk	3
 jerrican	3
 jerrycan	3
 jerrycans	3
 jersey	2
-jesse	1
 jet	1
 jeta	1
 jetable	2
@@ -33373,7 +33105,6 @@ jeton	2
 jetons	1
 jetpack	3
 jets	2
-jetta	3
 jette	1
 jettent	1
 jettera	2
@@ -33412,15 +33143,14 @@ jeûne	2
 jeûner	3
 jeûnes	3
 jeûné	3
-ji	1
+ji	3
 jigger	3
 jihad	3
 jihadiste	3
 jingle	2
 jingles	3
 jinjin	3
-jinn	3
-jo	1
+jo	3
 joaillerie	3
 joaillier	3
 joailliers	3
@@ -33480,7 +33210,6 @@ joli	1
 jolie	1
 jolies	1
 joliesse	3
-joliet	3
 joliment	2
 jolis	1
 jonc	2
@@ -33510,8 +33239,7 @@ jonques	3
 jonquille	3
 jonquilles	3
 jordanien	3
-jos	3
-joseph	1
+joseph	3
 joua	2
 jouable	3
 jouai	3
@@ -33606,9 +33334,8 @@ joyeuseté	3
 joyeusetés	3
 joyeux	1
 joystick	3
-joël	2
 jpeg	3
-juan	1
+juan	3
 jubila	3
 jubilais	3
 jubilait	3
@@ -33685,10 +33412,8 @@ jujube	3
 jujubes	3
 jujubiers	3
 jukebox	3
-jule	3
 julep	3
 jules	1
-julie	1
 julien	2
 julienne	2
 juliennes	3
@@ -33781,7 +33506,6 @@ justifié	2
 justifiée	2
 justifiées	3
 justifiés	3
-justine	2
 justinien	3
 jute	2
 juter	3
@@ -33807,11 +33531,9 @@ kabyle	3
 kabyles	3
 kacha	3
 kaddish	3
-kaiser	2
 kaki	2
 kakis	3
 kali	2
-kam	3
 kama	3
 kamala	3
 kami	3
@@ -33819,7 +33541,6 @@ kamikaze	2
 kamikazes	2
 kan	3
 kana	3
-kanaks	3
 kangourou	2
 kangourous	3
 kanji	3
@@ -33832,12 +33553,11 @@ kapos	3
 kaposi	3
 kapout	3
 kappa	2
-kappas	3
 kaputt	3
 karaoké	2
 karaté	2
 karatéka	3
-karen	1
+karen	3
 kari	3
 karité	3
 karma	1
@@ -33861,8 +33581,6 @@ kazakhs	3
 kazoo	3
 kebab	2
 kebabs	3
-kelp	3
-kelvin	2
 kendo	3
 kermesse	2
 kermesses	3
@@ -33878,7 +33596,6 @@ khamsin	3
 khan	1
 khans	2
 khmer	3
-khmers	3
 khâgne	3
 khâgneux	3
 khédive	3
@@ -33924,31 +33641,25 @@ kilowatts	3
 kils	3
 kilt	3
 kilts	3
-kim	1
 kimchi	3
 kimono	2
 kimonos	3
-kimura	2
-king	1
-kings	2
+king	3
 kino	3
 kiné	3
 kiosk	3
 kiosks	3
 kiosque	2
 kiosques	2
-kiowa	3
 kip	2
 kipa	3
 kippa	3
 kipper	3
 kir	3
 kirghiz	3
-kiri	3
 kirs	3
 kirsch	3
 kit	1
-kita	3
 kitch	3
 kite	3
 kits	3
@@ -33967,7 +33678,6 @@ klaxonnez	3
 klaxonné	3
 klaxons	2
 kleenex	2
-klein	2
 kleptomane	3
 klingon	2
 klingonne	3
@@ -33975,8 +33685,7 @@ klingonnes	3
 klingons	2
 km	1
 knout	3
-ko	2
-koa	3
+ko	3
 koala	3
 koalas	3
 kodak	3
@@ -33991,7 +33700,6 @@ komintern	3
 komsomol	3
 komsomols	3
 kondo	3
-kong	2
 kop	3
 kopeck	3
 kopecks	3
@@ -34005,15 +33713,11 @@ kouros	3
 krach	3
 kraft	3
 kraken	3
-kremlin	3
-kreutzer	3
 krill	3
 kriss	3
 kroumir	3
 krypton	2
 kryptonite	2
-kt	2
-ku	3
 kummel	3
 kumquat	3
 kumquats	3
@@ -34110,7 +33814,6 @@ lads	3
 lady	1
 lager	3
 lagon	3
-laguna	3
 lagunaire	3
 lagune	2
 lagunes	2
@@ -34182,7 +33885,6 @@ laiton	2
 laits	3
 laitue	2
 laitues	3
-lakota	3
 lala	3
 lama	2
 lamantin	3
@@ -34234,7 +33936,6 @@ lamé	3
 lamés	3
 lan	2
 lance	1
-lancelot	2
 lancement	1
 lancements	3
 lancent	2
@@ -34301,7 +34002,6 @@ languis	3
 languissez	3
 languit	3
 langé	3
-lanier	3
 lanière	2
 lanières	2
 lanoline	3
@@ -34316,8 +34016,6 @@ lançait	1
 lançant	2
 lançons	2
 lançât	3
-lao	3
-laos	3
 lap	3
 lapait	3
 lapant	3
@@ -34447,7 +34145,6 @@ lassée	3
 lassées	3
 lassés	3
 last	2
-lat	3
 latence	3
 latent	3
 latente	3
@@ -34480,8 +34177,7 @@ latérite	3
 laudanum	3
 laude	3
 laudes	3
-laura	1
-laurent	2
+laura	3
 laurier	2
 lauriers	2
 lauréat	3
@@ -34585,7 +34281,7 @@ legs	2
 lei	2
 leitmotiv	3
 lek	3
-lem	2
+lem	3
 lemming	3
 lendemain	1
 lendemains	2
@@ -34687,7 +34383,7 @@ lexiques	3
 lez	3
 leçon	1
 leçons	1
-li	1
+li	2
 lia	3
 liai	3
 liaient	3
@@ -34791,7 +34487,6 @@ licorne	2
 licornes	2
 licou	3
 licteurs	3
-lidia	3
 lido	3
 lidocaïne	3
 lie	2
@@ -34860,9 +34555,7 @@ likes	3
 lilas	2
 lilial	3
 liliale	3
-lilith	2
 lillois	3
-lima	2
 limace	2
 limaces	2
 limaille	3
@@ -34994,7 +34687,7 @@ liron	3
 lirons	3
 liront	3
 lis	1
-lisa	1
+lisa	3
 lisaient	2
 lisais	1
 lisait	1
@@ -35073,7 +34766,6 @@ lituanien	3
 lituaniens	3
 liturgie	2
 liturgique	3
-liv	1
 livarot	3
 live	2
 lives	3
@@ -35127,7 +34819,6 @@ lié	1
 liée	1
 liées	1
 liés	1
-lloyd	1
 lm	3
 ln	3
 loa	3
@@ -35169,7 +34860,6 @@ locdu	3
 loch	3
 loche	3
 loches	3
-locke	2
 locker	3
 loco	2
 locomotion	3
@@ -35233,7 +34923,6 @@ loisible	3
 loisir	1
 loisirs	1
 lol	2
-lola	1
 lolita	2
 lolo	3
 lolos	3
@@ -35241,7 +34930,6 @@ lombaire	2
 lombaires	3
 lombard	3
 lombarde	3
-lombardo	3
 lombards	3
 lombes	3
 lombric	3
@@ -35300,7 +34988,6 @@ loquets	3
 lorazépam	3
 lord	1
 lords	2
-lore	3
 lorgna	3
 lorgnaient	3
 lorgnais	3
@@ -35314,12 +35001,11 @@ lorgnettes	3
 lorgnon	2
 lorgnons	2
 lorgné	3
-lori	1
 loriot	2
 loriots	3
 loris	3
 lorrain	3
-lorraine	2
+lorraine	3
 lorraines	3
 lorrains	3
 lors	1
@@ -35340,7 +35026,6 @@ lotions	3
 lotir	3
 lotis	3
 loto	2
-lotor	3
 lotos	3
 lots	2
 lotta	3
@@ -35391,7 +35076,6 @@ loufiats	3
 loufoque	3
 loufoques	3
 louis	1
-louise	1
 loukoum	3
 loukoums	3
 loulou	1
@@ -35451,7 +35135,6 @@ loués	3
 lova	3
 lovait	3
 love	1
-lovelace	3
 lover	3
 loves	3
 lové	3
@@ -35470,7 +35153,6 @@ loyautés	3
 loyaux	2
 loyer	1
 loyers	2
-lsd	2
 lu	1
 lubie	2
 lubies	3
@@ -35483,15 +35165,12 @@ lubrique	2
 lubriques	3
 lucarne	2
 lucarnes	3
-luce	2
 lucha	3
 lucide	1
 lucidement	3
 lucides	2
 lucidité	1
 lucidités	3
-lucien	2
-lucienne	3
 luciférien	3
 luciole	3
 lucioles	2
@@ -35525,7 +35204,7 @@ luisants	2
 luise	3
 luisent	2
 luit	2
-lulu	2
+lulu	3
 lumbago	3
 lumbagos	3
 lumen	3
@@ -35557,7 +35236,6 @@ lunule	3
 lunules	3
 luné	3
 lunée	3
-luo	3
 lupanar	3
 lupanars	3
 lupin	3
@@ -35643,7 +35321,7 @@ lycéens	2
 lycées	2
 lymphe	3
 lymphome	3
-lynch	2
+lynch	3
 lynchage	3
 lynchages	3
 lyncher	3
@@ -35652,7 +35330,6 @@ lynché	3
 lynx	2
 lyonnais	3
 lyonnaise	3
-lyra	3
 lyre	3
 lyres	3
 lyric	3
@@ -35660,7 +35337,6 @@ lyrique	2
 lyriques	3
 lyrisme	2
 lys	2
-lysa	3
 là	1
 lâcha	1
 lâchage	3
@@ -35784,7 +35460,7 @@ léninisme	3
 léniniste	3
 léninistes	3
 lénitive	3
-léonard	2
+léonard	3
 léonin	3
 léonine	3
 léopard	2
@@ -35839,7 +35515,6 @@ macabres	3
 macache	3
 macadam	2
 macadamia	3
-macao	2
 macaque	3
 macaques	3
 macarena	3
@@ -35855,11 +35530,9 @@ macchabées	3
 macchiato	3
 macfarlane	3
 mach	3
-macha	3
 macher	3
 machette	2
 machettes	3
-machiavel	3
 machin	1
 machinal	2
 machinale	3
@@ -35902,13 +35575,12 @@ madame	1
 madames	3
 madapolam	3
 made	2
-madeleine	2
+madeleine	3
 madeleines	3
 madi	3
-madison	1
+madison	3
 madone	2
 madones	3
-madonne	3
 madras	3
 madre	3
 madrier	3
@@ -35995,14 +35667,12 @@ magouille	3
 magouiller	3
 magouilles	2
 magouillé	3
-mags	3
 magyar	3
 maharadjah	3
 maharaja	3
 maharajah	3
 maharani	3
 mahatma	3
-mahdi	3
 mahjong	3
 mahométans	3
 mahonia	3
@@ -36099,7 +35769,6 @@ majorités	3
 majors	3
 majuscule	2
 majuscules	2
-mak	3
 maki	2
 mal	1
 malabar	3
@@ -36162,7 +35831,6 @@ malheur	1
 malheureux	1
 malheurs	1
 malhonnête	2
-mali	3
 malice	1
 malices	3
 malicieuse	3
@@ -36172,7 +35840,6 @@ maligne	2
 malignes	3
 malignité	2
 malignités	3
-malik	1
 malin	1
 maline	2
 malines	3
@@ -36211,7 +35878,6 @@ malsains	3
 malséant	3
 malt	2
 maltais	3
-malte	3
 maltraite	3
 maltraiter	2
 maltraites	3
@@ -36308,7 +35974,6 @@ mandorle	3
 mandragore	3
 mandrin	3
 mandé	3
-manet	3
 manette	2
 manettes	2
 manga	3
@@ -36362,7 +36027,7 @@ mangé	1
 mangée	2
 mangées	3
 mangés	2
-manhattan	1
+manhattan	3
 mani	3
 mania	3
 maniable	3
@@ -36481,7 +36146,6 @@ mansardes	3
 mansardé	3
 mansardée	3
 mansardées	3
-mansi	3
 mansion	3
 mansions	3
 mansuétude	2
@@ -36491,12 +36155,10 @@ manteau	1
 manteaux	1
 mantelet	3
 mantes	3
-manticore	3
 mantille	3
 mantilles	3
 mantra	3
 mantras	3
-manu	2
 manucure	2
 manucurer	3
 manucures	3
@@ -36514,7 +36176,6 @@ manège	1
 manèges	2
 mao	2
 maori	3
-maoris	3
 maos	3
 maous	3
 maousse	3
@@ -36550,7 +36211,7 @@ maquisards	2
 maqué	3
 maquée	3
 mar	2
-mara	2
+mara	3
 marabout	3
 marabouts	3
 maracas	3
@@ -36579,9 +36240,9 @@ marbré	3
 marbrée	3
 marbrées	3
 marbrés	3
-marc	1
+marc	2
 marcassin	3
-marcel	1
+marcel	3
 marceline	3
 marcha	1
 marchai	2
@@ -36623,7 +36284,6 @@ marchât	3
 marchèrent	2
 marché	1
 marchés	2
-marconi	3
 marcs	3
 marde	2
 mardi	1
@@ -36664,7 +36324,7 @@ mariaient	3
 mariais	3
 mariait	2
 mariales	3
-marianne	1
+marianne	3
 mariant	3
 marida	3
 marie	1
@@ -36705,7 +36365,6 @@ mariole	3
 marioles	3
 mariolle	3
 mariolles	3
-marion	2
 marions	2
 maris	1
 marital	3
@@ -36720,7 +36379,7 @@ mariée	1
 mariées	2
 mariés	1
 marjolaine	3
-mark	1
+mark	2
 marker	3
 marketing	2
 marks	1
@@ -36759,7 +36418,6 @@ marne	3
 marner	3
 marnes	2
 marneuse	3
-maroc	2
 marocain	2
 marocaine	2
 marocaines	3
@@ -36787,7 +36445,6 @@ marquerai	3
 marquerait	3
 marqueront	3
 marques	1
-marquette	3
 marqueur	2
 marqueurs	2
 marquez	2
@@ -36834,7 +36491,7 @@ mars	1
 marsala	3
 marsaules	3
 marshal	1
-marshall	1
+marshall	3
 marshalls	3
 marshals	2
 marsouin	3
@@ -36843,7 +36500,7 @@ marsupial	3
 marte	3
 marteau	1
 marteaux	2
-martel	2
+martel	3
 martela	3
 martelait	3
 martelant	2
@@ -36860,9 +36517,7 @@ martien	2
 martienne	3
 martiennes	3
 martiens	2
-martin	1
-martina	2
-martine	2
+martin	3
 martinet	3
 martinets	3
 martinez	2
@@ -36886,8 +36541,7 @@ martèlent	3
 marxisme	2
 marxiste	2
 marxistes	3
-mary	1
-maryland	2
+mary	3
 marâtre	3
 marécage	2
 marécages	2
@@ -37034,7 +36688,6 @@ matez	2
 math	2
 matheux	3
 maths	1
-mathusalem	3
 mati	3
 matin	1
 matinal	2
@@ -37049,7 +36702,6 @@ matisse	3
 matité	3
 matière	1
 matières	1
-mato	3
 matois	3
 maton	2
 matonnes	3
@@ -37142,12 +36794,10 @@ maxime	2
 maximes	3
 maximiser	3
 maximum	1
-maxwell	2
-maya	1
-mayas	2
+maya	3
+mayas	3
 mayo	2
 mayonnaise	2
-mays	3
 mazas	3
 maze	3
 mazet	3
@@ -37186,7 +36836,6 @@ maïzena	3
 me	1
 mec	1
 meccano	3
-mecha	3
 mechtas	3
 mecs	1
 mecton	3
@@ -37203,7 +36852,6 @@ meilleure	1
 meilleures	1
 meilleurs	1
 melba	3
-melchior	3
 melon	2
 melons	2
 mels	3
@@ -37395,9 +37043,8 @@ merlans	3
 merle	2
 merles	3
 merlette	3
-merlin	1
+merlin	3
 merlot	3
-merlotte	3
 merluche	3
 merrain	3
 merrains	3
@@ -37428,7 +37075,6 @@ messes	2
 messie	2
 messies	3
 messieurs	1
-messine	3
 messire	2
 messires	3
 mestre	3
@@ -37542,7 +37188,7 @@ mg	2
 mhh	3
 mi	1
 miam	2
-miami	1
+miami	3
 miao	3
 miaou	2
 miaous	3
@@ -37567,7 +37213,7 @@ michetonne	3
 michetons	2
 miché	3
 michés	3
-mickey	1
+mickey	3
 mickeys	3
 micmac	3
 micmacs	3
@@ -37641,14 +37287,13 @@ mijotés	3
 mikado	3
 mil	2
 milady	2
-milan	1
+milan	3
 milanais	3
 milanaise	3
 milanaises	3
 milans	3
 mile	1
 miles	1
-mili	3
 milice	2
 milices	2
 milicien	3
@@ -37668,7 +37313,6 @@ militer	3
 milité	3
 milkshake	2
 milkshakes	3
-millard	3
 mille	1
 millenium	3
 milles	2
@@ -37710,7 +37354,7 @@ mimé	3
 mimée	3
 mimétisme	3
 min	1
-mina	2
+mina	3
 minable	1
 minables	2
 minait	3
@@ -37746,8 +37390,7 @@ mineur	1
 mineure	2
 mineures	2
 mineurs	1
-ming	2
-mingo	3
+ming	3
 mini	1
 miniature	2
 miniatures	2
@@ -37783,10 +37426,8 @@ minières	3
 mino	3
 minoen	3
 minois	2
-minor	3
 minorité	2
 minorités	2
-minos	3
 minot	3
 minotaure	3
 minotier	3
@@ -37963,9 +37604,8 @@ mlle	1
 mm	1
 mme	1
 mmh	2
-mmm	1
+mmm	2
 mn	1
-moa	3
 mob	3
 mobile	1
 mobiles	2
@@ -38094,7 +37734,7 @@ moineaux	2
 moines	1
 moinillon	3
 moins	1
-moira	2
+moira	3
 moire	3
 moires	3
 moirures	3
@@ -38161,7 +37801,6 @@ mollo	2
 mollusque	3
 mollusques	3
 molo	3
-moloch	2
 molosse	3
 molosses	3
 molto	3
@@ -38187,7 +37826,6 @@ mominette	3
 mon	1
 monacal	3
 monacale	3
-monaco	2
 monarchie	2
 monarchies	3
 monarque	2
@@ -38277,7 +37915,6 @@ montai	2
 montaient	1
 montais	2
 montait	1
-montana	2
 montant	1
 montante	2
 montantes	3
@@ -38454,7 +38091,6 @@ mordue	2
 mordues	3
 mordus	3
 more	1
-moreau	2
 mores	3
 morfale	3
 morfle	3
@@ -38466,9 +38102,7 @@ morfondre	2
 morfonds	3
 morfondu	3
 morfondue	3
-morgan	1
 morgana	2
-morgane	2
 morgen	3
 morgue	1
 morgues	3
@@ -38491,13 +38125,11 @@ morna	3
 morne	1
 mornes	2
 mornifle	3
-moro	3
 moron	3
 morose	2
 moroses	3
 morosité	3
 morphine	1
-morphée	3
 morpion	3
 morpions	2
 mors	2
@@ -38580,7 +38212,6 @@ motrice	3
 motrices	3
 motricité	3
 mots	1
-motta	3
 motte	2
 mottes	2
 motus	2
@@ -38724,7 +38355,6 @@ mouscaille	3
 mousquet	3
 mousqueton	2
 mousquets	3
-moussa	3
 moussaient	3
 moussait	3
 moussaka	3
@@ -38773,7 +38403,6 @@ mouvement	1
 mouvements	1
 mouvementé	3
 mouvoir	2
-moya	2
 moyen	1
 moyennant	2
 moyenne	1
@@ -38786,10 +38415,9 @@ moyeux	3
 mozzarella	3
 moëlle	3
 moï	3
-moïse	2
+moïse	3
 moût	3
-ms	2
-msg	3
+ms	3
 mu	2
 mua	3
 muait	3
@@ -38862,7 +38490,6 @@ mulâtres	3
 mulâtresse	3
 mungo	3
 muni	2
-munich	2
 munichois	3
 municipal	1
 municipale	2
@@ -38919,7 +38546,6 @@ murée	3
 murées	3
 murés	3
 mus	3
-musa	3
 musaraigne	3
 musard	3
 musardait	3
@@ -39599,7 +39225,7 @@ napalm	3
 naphtaline	2
 naphte	3
 napolitain	3
-napoléon	1
+napoléon	3
 napoléons	3
 nappa	3
 nappage	3
@@ -39615,7 +39241,7 @@ naquis	3
 naquit	2
 naquît	3
 narbonnais	3
-narcisse	2
+narcisse	3
 narcisses	3
 narco	3
 narcos	3
@@ -39663,15 +39289,13 @@ nasillarde	3
 nasillards	3
 nasse	3
 nasses	3
-nat	2
 nata	3
 natal	2
 natale	1
 natales	3
 natalité	3
 natation	2
-natchez	3
-nate	1
+nate	3
 natif	2
 natifs	3
 nation	1
@@ -39797,11 +39421,9 @@ neigeuse	3
 neigeuses	3
 neigeux	3
 neigé	3
-nell	2
 nem	3
 nems	3
 nenni	3
-neo	3
 nerd	2
 nerds	3
 nerf	1
@@ -39817,7 +39439,6 @@ nervure	3
 nervures	2
 nervuré	3
 nescafé	3
-nestor	2
 nestorien	2
 nestoriens	3
 net	1
@@ -39886,9 +39507,7 @@ neveux	2
 new	1
 news	1
 newsletter	3
-newton	2
 newtons	3
-nexus	3
 ney	3
 nez	1
 ng	3
@@ -39919,7 +39538,6 @@ nichent	3
 nicher	3
 niches	2
 nichoir	3
-nichols	2
 nichon	3
 nichons	1
 niché	3
@@ -39948,7 +39566,6 @@ niez	2
 nigaud	2
 nigaude	3
 nigauds	3
-niger	3
 night	1
 nightclub	3
 nights	3
@@ -39958,7 +39575,6 @@ nigérien	3
 nihilisme	3
 nihiliste	3
 nihilistes	3
-nil	2
 nim	3
 nimbait	3
 nimbe	3
@@ -39966,7 +39582,6 @@ nimbus	3
 nimbé	3
 nimbée	3
 ninas	3
-nini	3
 ninja	1
 ninjas	2
 nions	3
@@ -39987,7 +39602,6 @@ niqués	3
 nirvana	2
 nirvâna	2
 nisan	3
-nissan	3
 nitrate	2
 nitrates	3
 nitreux	3
@@ -40004,7 +39618,6 @@ nivelée	3
 nivelés	3
 nivernaise	3
 nivôse	3
-nizam	3
 niçois	3
 niçoise	3
 niçoises	3
@@ -40013,7 +39626,6 @@ nièces	2
 nié	2
 niée	3
 no	1
-noah	1
 nobiliaire	3
 noble	1
 noblement	2
@@ -40036,7 +39648,6 @@ nodal	3
 nodosités	3
 nodule	3
 nodules	3
-noe	3
 noeud	1
 noeuds	1
 noie	2
@@ -40116,14 +39727,12 @@ nommément	3
 nommés	2
 noms	1
 non	1
-nona	3
 nonante	3
 nonce	3
 nonchalant	2
 none	3
 nones	3
 nonette	3
-noni	3
 nonnain	3
 nonne	2
 nonnes	2
@@ -40139,7 +39748,6 @@ nordiste	3
 nordistes	3
 nori	3
 noria	3
-norma	2
 normal	1
 normale	1
 normales	2
@@ -40231,7 +39839,6 @@ nouilles	1
 nounou	1
 nounours	2
 nounous	2
-nour	3
 nourri	1
 nourrice	1
 nourrices	3
@@ -40808,7 +40415,6 @@ ocres	3
 ocreux	3
 ocrée	3
 ocrés	3
-oct	3
 octane	3
 octave	2
 octaves	3
@@ -40819,7 +40425,6 @@ octogonal	3
 octogonale	3
 octogone	3
 octogones	3
-octopus	3
 octroi	3
 octroie	3
 octrois	3
@@ -41003,7 +40608,6 @@ oit	3
 ok	1
 oka	3
 okay	1
-oki	3
 okidoki	3
 ola	3
 olfactif	3
@@ -41013,7 +40617,6 @@ olibrius	3
 olifant	3
 oligarques	3
 olive	1
-oliver	1
 oliveraie	3
 oliveraies	3
 olives	2
@@ -41022,8 +40625,6 @@ olivier	2
 oliviers	2
 olivâtre	3
 olivâtres	3
-ollie	2
-olympe	2
 olympiade	3
 olympiades	3
 olympien	3
@@ -41159,7 +40760,6 @@ opalin	3
 opaline	3
 opaque	2
 opaques	2
-ope	3
 open	2
 ophtalmo	3
 opiacé	3
@@ -41466,10 +41066,8 @@ orignal	3
 orignaux	3
 orin	3
 orioles	3
-orion	2
 oripeaux	3
 orléanisme	3
-orléans	2
 orme	3
 ormeau	3
 ormeaux	3
@@ -41509,7 +41107,6 @@ orthodoxe	2
 orthodoxes	2
 orthodoxie	3
 orthopédie	3
-orthos	3
 ortie	3
 orties	2
 ortolan	3
@@ -41523,7 +41120,7 @@ osaient	2
 osais	1
 osait	1
 osant	2
-oscar	1
+oscar	3
 oscars	2
 oscilla	3
 oscillais	3
@@ -41580,10 +41177,8 @@ otages	1
 otaku	3
 otarie	3
 otaries	3
-ote	3
 otite	3
 otites	3
-ottawa	3
 ottoman	3
 ottomane	3
 ottomans	3
@@ -41788,7 +41383,6 @@ ovulation	3
 ovule	2
 ovuler	3
 ovules	2
-oxford	2
 oxycodone	3
 oxydant	3
 oxydation	3
@@ -41803,7 +41397,6 @@ oxymore	3
 oxymètre	3
 oye	3
 oyez	2
-oz	1
 ozone	2
 où	1
 pa	1
@@ -41827,7 +41420,6 @@ pacifiée	3
 pack	2
 package	3
 packs	3
-paco	2
 pacotille	2
 pacotilles	3
 pacsif	3
@@ -41960,10 +41552,9 @@ palladium	3
 palliatif	3
 palliatifs	3
 pallier	3
-palma	3
 palmarès	3
 palme	2
-palmer	1
+palmer	3
 palmeraie	3
 palmeraies	3
 palmes	2
@@ -42021,7 +41612,7 @@ panacée	3
 panade	3
 panades	3
 panais	3
-panama	2
+panama	3
 panaméen	3
 panard	3
 panards	3
@@ -42035,7 +41626,7 @@ pancréas	2
 panda	2
 pandas	3
 pandit	3
-pandore	2
+pandore	3
 pandores	3
 pandémie	3
 panel	3
@@ -42118,7 +41709,6 @@ pané	3
 panée	3
 panées	3
 panés	3
-paolo	2
 paon	2
 paons	3
 papa	1
@@ -42402,11 +41992,8 @@ parjurer	3
 parjures	3
 parjuré	3
 parka	3
-parker	1
-parkes	3
 parking	1
 parkings	2
-parkinson	2
 parkour	3
 parla	1
 parlai	2
@@ -42482,7 +42069,6 @@ parpaing	3
 parpaings	3
 parque	3
 parquer	3
-parques	3
 parquet	1
 parquets	2
 parquetée	3
@@ -42506,8 +42092,6 @@ parsemée	2
 parsemées	3
 parsemés	3
 parsi	3
-parson	3
-parsons	2
 parsèment	3
 part	1
 partage	1
@@ -42739,7 +42323,7 @@ pastorales	3
 pastrami	3
 pastèque	2
 pastèques	3
-pat	1
+pat	3
 patache	3
 patachon	3
 patapouf	3
@@ -42861,9 +42445,8 @@ patère	3
 patères	3
 paté	3
 patés	3
-pau	3
 pauchouse	3
-paul	1
+paul	3
 pauline	2
 paumais	3
 paumait	3
@@ -42974,14 +42557,11 @@ païenne	2
 païennes	3
 païens	2
 pb	3
-pbs	3
 pc	2
 pchitt	3
 pdf	3
 pdt	3
 pe	3
-peabody	2
-peanut	3
 peanuts	3
 peau	1
 peaufinait	3
@@ -43218,7 +42798,7 @@ pensée	1
 pensées	1
 pensés	3
 pentacle	3
-pentagone	1
+pentagone	3
 pente	1
 pentecôte	2
 pentes	1
@@ -43235,7 +42815,6 @@ peppermint	3
 pepperoni	2
 pepperonis	3
 peps	3
-pepsi	2
 percale	3
 perce	2
 percement	3
@@ -43358,7 +42937,6 @@ perfuser	3
 perfusion	2
 perfusions	3
 pergola	3
-perla	3
 perlaient	3
 perlait	3
 perlant	3
@@ -43435,7 +43013,6 @@ perpétuité	2
 perpétué	3
 perpétuée	3
 perquise	3
-perrier	3
 perron	1
 perrons	3
 perroquet	1
@@ -43612,7 +43189,6 @@ petits	1
 petons	3
 petros	3
 pets	2
-petto	3
 peu	1
 peuchère	3
 peuh	2
@@ -43648,7 +43224,6 @@ pff	2
 pfff	2
 pfft	2
 pfiou	3
-pg	3
 ph	3
 phacochère	3
 phalange	2
@@ -43677,7 +43252,6 @@ phase	1
 phases	2
 phaéton	3
 phi	3
-philippe	1
 philippin	3
 philippine	3
 philippins	3
@@ -43742,7 +43316,6 @@ phénoménal	3
 phéromone	3
 phéromones	2
 pi	2
-pia	3
 piaf	2
 piaffait	3
 piaffant	3
@@ -43783,7 +43356,6 @@ pibloque	3
 pic	1
 pica	3
 picador	3
-picard	2
 picardes	3
 picards	3
 picaresque	3
@@ -43805,7 +43377,6 @@ picoler	2
 picoles	3
 picoleur	3
 picolé	3
-picon	3
 picoraient	3
 picorait	3
 picore	3
@@ -43833,8 +43404,6 @@ pie	2
 pied	1
 piedmont	3
 pieds	1
-pier	3
-pierce	1
 piercing	2
 piercings	3
 pierraille	2
@@ -43844,7 +43413,7 @@ pierres	1
 pierreuse	3
 pierreuses	3
 pierreux	3
-pierrot	2
+pierrot	3
 pierrots	3
 pies	3
 pietà	3
@@ -44132,7 +43701,6 @@ pirouettes	3
 pis	1
 piscine	1
 piscines	2
-pise	3
 pissa	3
 pissaient	3
 pissais	3
@@ -44409,7 +43977,6 @@ plaisir	1
 plaisirs	1
 plaisons	3
 plait	1
-plame	3
 plan	1
 plana	3
 planaient	3
@@ -44552,12 +44119,10 @@ platitude	3
 platitudes	3
 platonique	3
 plats	1
-platt	2
 platte	3
 platée	3
 plausible	2
 plausibles	3
-play	2
 playback	3
 playboy	2
 playboys	3
@@ -44846,7 +44411,6 @@ podium	2
 podiums	3
 podologue	3
 pods	3
-poe	2
 pogne	2
 pogner	3
 pognes	2
@@ -45032,7 +44596,6 @@ politiques	1
 politisé	3
 politisés	3
 polka	2
-pollack	3
 pollen	2
 polluant	3
 polluants	3
@@ -45095,7 +44658,6 @@ pommettes	1
 pommier	2
 pommiers	2
 pommées	3
-pompadour	3
 pompage	3
 pompait	3
 pompant	3
@@ -45122,7 +44684,7 @@ pomponnée	3
 pomponnées	3
 pompons	2
 pompé	3
-pompée	2
+pompée	3
 pompéien	3
 pompéienne	3
 ponant	3
@@ -45131,7 +44693,6 @@ ponceau	3
 poncer	3
 ponces	3
 ponceuse	3
-ponch	3
 poncho	3
 ponchos	3
 poncif	3
@@ -45191,14 +44752,13 @@ popa	3
 popaul	3
 popcorn	2
 popcorns	3
-pope	1
+pope	2
 popeline	2
 popes	3
 popote	2
 popotes	3
 popotin	2
 poppa	3
-popper	3
 poppers	3
 pops	2
 populace	2
@@ -45287,7 +44847,6 @@ portique	2
 portiques	3
 portière	1
 portières	2
-portland	1
 porto	2
 portons	2
 portor	3
@@ -45299,7 +44858,6 @@ portuaire	3
 portuaires	3
 portugais	2
 portugaise	2
-portugal	2
 portulan	3
 portulans	3
 portât	3
@@ -46447,7 +46005,6 @@ protègera	2
 protègerai	3
 protègeras	3
 protèges	2
-protée	3
 protégea	3
 protégeais	2
 protégeait	1
@@ -46572,7 +46129,6 @@ prunes	2
 prunier	3
 pruniers	3
 prurit	3
-prusse	3
 prussien	3
 prussienne	3
 prussiens	2
@@ -47102,8 +46658,7 @@ puceron	3
 pucerons	3
 puces	1
 pucier	3
-puck	2
-pucks	3
+puck	3
 pudding	2
 puddings	3
 puddle	3
@@ -47353,7 +46908,7 @@ pâmée	3
 pâmées	3
 pâque	3
 pâquerette	3
-pâques	1
+pâques	3
 pâte	1
 pâtes	1
 pâteuse	2
@@ -47461,17 +47016,15 @@ pédéraste	2
 pédérastes	3
 pédérastie	3
 pédés	2
-pégase	2
 pégriot	3
 pégriots	3
 péjoratif	3
-pékin	2
+pékin	3
 pékinois	3
 pékins	3
 pélerinage	3
 pélican	3
 pélicans	3
-pélo	3
 pénal	2
 pénale	3
 pénales	3
@@ -47558,7 +47111,6 @@ péricliter	3
 périclité	3
 péridurale	3
 périf	3
-pérignon	3
 péril	1
 périlleuse	2
 périlleux	2
@@ -47604,7 +47156,6 @@ pérorait	3
 pérorant	3
 pérore	3
 pérorer	3
-pérou	2
 péruvien	3
 péruvienne	3
 péruviens	3
@@ -47715,8 +47266,7 @@ pôle	2
 pôles	3
 pûmes	3
 pût	1
-qi	2
-qin	3
+qi	3
 qq	3
 qqch	3
 qqchose	3
@@ -47783,7 +47333,6 @@ quartz	2
 quasar	3
 quasi	1
 quasiment	1
-quasimodo	3
 quatorze	1
 quatrains	3
 quatre	1
@@ -47794,7 +47343,7 @@ quatuor	2
 quatuors	3
 que	1
 queen	1
-queens	1
+queens	3
 queer	3
 quel	1
 quelconque	1
@@ -47830,7 +47379,6 @@ quia	3
 quibus	3
 quiche	3
 quiches	3
-quichotte	2
 quick	3
 quiconque	1
 quid	3
@@ -47865,7 +47413,6 @@ quintet	3
 quintette	3
 quinteux	3
 quinto	3
-quinton	3
 quintuple	3
 quintuplés	3
 quinzaine	1
@@ -47985,7 +47532,6 @@ rabbins	3
 rabe	3
 rabibocher	3
 rabibochés	3
-rabin	3
 rabiot	3
 rabioter	3
 rabot	3
@@ -48313,7 +47859,6 @@ rails	1
 rain	2
 raina	2
 raine	3
-rainer	3
 raines	2
 rainette	3
 rainettes	3
@@ -48505,12 +48050,10 @@ ramollir	3
 ramollis	3
 ramollit	3
 ramollo	3
-ramon	2
-ramona	2
+ramona	3
 ramonage	3
 ramone	3
 ramoner	3
-ramones	3
 ramoneur	3
 rampa	3
 rampai	3
@@ -48838,7 +48381,6 @@ ratatiné	2
 ratatinée	3
 ratatinées	3
 ratatinés	3
-ratchet	3
 rate	1
 ratent	3
 rater	1
@@ -49002,7 +48544,7 @@ raviver	2
 ravivé	3
 ravivée	3
 ravoir	2
-ray	1
+ray	3
 raya	3
 rayaient	3
 rayait	3
@@ -49077,7 +48619,6 @@ rebondir	2
 rebondis	3
 rebondit	2
 rebonds	3
-rebonjour	3
 rebooter	3
 rebord	1
 rebords	3
@@ -50155,7 +49696,6 @@ remettrez	3
 remettriez	3
 remettrons	3
 remettront	3
-remington	3
 remirent	2
 remis	1
 remisa	3
@@ -50169,7 +49709,6 @@ remisée	3
 remisés	3
 remit	1
 remix	3
-remo	3
 remodelage	3
 remodeler	3
 remodelé	3
@@ -50292,7 +49831,6 @@ remuez	2
 remugle	3
 remugles	3
 remuons	3
-remus	3
 remuât	3
 remuèrent	3
 remué	2
@@ -50631,7 +50169,7 @@ renâcle	3
 renâcler	3
 renâclé	3
 rené	2
-renée	2
+renée	3
 renégat	2
 renégate	3
 renégats	3
@@ -51408,7 +50946,6 @@ rets	3
 retînt	3
 reubeu	3
 reum	3
-reva	3
 revais	3
 revanchard	3
 revanche	1
@@ -51632,10 +51169,9 @@ ricaneur	3
 ricaneurs	3
 ricanèrent	3
 ricané	2
-richard	1
+richard	2
 richards	2
 riche	1
-richelieu	3
 richement	3
 riches	1
 richesse	1
@@ -51765,9 +51301,8 @@ rinça	3
 rinçage	3
 rinçait	3
 rinçant	3
-rio	2
 rions	3
-rip	2
+rip	3
 ripa	3
 ripaille	3
 ripailler	3
@@ -51780,7 +51315,6 @@ ripoliné	3
 ripolinée	3
 ripolinées	3
 ripolinés	3
-ripon	3
 riposta	3
 ripostai	3
 ripostait	3
@@ -51855,7 +51389,6 @@ ritale	3
 ritals	3
 rite	1
 rites	1
-ritter	2
 rituel	1
 rituelle	2
 rituelles	2
@@ -51879,7 +51412,6 @@ rivant	3
 rivaux	2
 rive	1
 river	1
-rivera	2
 riveraines	3
 riverains	3
 rives	1
@@ -51887,7 +51419,6 @@ rivet	3
 rivetage	3
 rivets	3
 rivetées	3
-riviera	3
 rivière	1
 rivières	1
 rivoir	3
@@ -51904,14 +51435,13 @@ roadster	3
 rob	1
 robe	1
 roberge	3
-robert	1
-roberts	1
+robert	2
+roberts	3
 robes	1
-robin	1
+robin	3
 robinet	1
 robinets	2
 robins	3
-robinson	1
 robinsons	3
 roblot	3
 roboratif	3
@@ -52008,7 +51538,7 @@ romanes	3
 romanesque	2
 romani	3
 romanichel	3
-romano	2
+romano	3
 romanos	3
 romans	1
 romantique	1
@@ -52040,7 +51570,7 @@ rompues	3
 rompus	2
 rompît	3
 roms	3
-ron	1
+ron	3
 ronce	3
 ronces	1
 ronchon	3
@@ -52099,7 +51629,6 @@ rongée	2
 rongées	2
 rongés	2
 ronin	3
-ronnie	1
 ronron	2
 ronronna	3
 ronronnais	3
@@ -52124,12 +51653,10 @@ roquet	3
 roquets	3
 roquette	3
 roquettes	3
-rosa	1
 rosace	3
 rosaces	3
 rosaire	3
 rosales	3
-rosalie	2
 rosat	3
 rosbif	2
 rosbifs	3
@@ -52211,7 +51738,6 @@ roucouler	3
 roucoulé	3
 roudoudou	3
 roue	1
-rouen	3
 rouer	3
 rouerie	3
 roueries	3
@@ -52328,7 +51854,6 @@ rouspéta	3
 rouspétait	3
 rouspéter	3
 rousse	1
-rousseau	3
 rousses	2
 roussette	3
 rousseur	2
@@ -52385,7 +51910,7 @@ rouée	3
 roués	3
 rover	2
 rovers	3
-roy	1
+roy	3
 royal	1
 royale	1
 royalement	2
@@ -52453,7 +51978,6 @@ rugosités	3
 rugueuse	2
 rugueuses	3
 rugueux	2
-rui	3
 ruina	3
 ruinaient	3
 ruinait	3
@@ -52507,7 +52031,6 @@ runes	3
 runner	3
 running	2
 runs	3
-rupa	3
 rupestre	3
 rupestres	3
 rupin	3
@@ -52546,7 +52069,6 @@ rusés	2
 rut	2
 rutabaga	3
 rutabagas	3
-rutherford	3
 rutilait	3
 rutilant	3
 rutilante	3
@@ -53827,7 +53349,6 @@ sabayons	3
 sabbat	2
 sabbatique	2
 sabin	3
-sabine	2
 sabir	3
 sabla	3
 sable	1
@@ -53960,7 +53481,6 @@ sadiques	2
 sadisme	2
 sado	3
 sadomaso	3
-safar	3
 safari	2
 safaris	3
 safran	2
@@ -54093,8 +53613,6 @@ salies	3
 saligaud	2
 saligauds	3
 salin	3
-salina	3
-salinas	3
 saline	2
 salines	2
 salingue	3
@@ -54122,7 +53640,7 @@ salles	1
 salmis	3
 salmonelle	3
 saloir	3
-salomon	2
+salomon	3
 salon	1
 salons	1
 saloon	2
@@ -54190,8 +53708,7 @@ sambuca	3
 same	2
 samedi	1
 samedis	2
-sami	2
-sammy	1
+sammy	3
 samoan	3
 samosas	3
 samouraï	1
@@ -54200,7 +53717,7 @@ samovar	2
 samovars	3
 sampang	3
 sample	3
-samu	2
+samu	3
 samurai	3
 sana	2
 sanatorium	2
@@ -54225,7 +53742,6 @@ sandwiche	3
 sandwiches	2
 sandwichs	2
 sang	1
-sanga	3
 sanglait	3
 sanglant	2
 sanglante	2
@@ -54269,7 +53785,6 @@ sanskrit	3
 sansonnet	3
 santal	3
 santals	3
-santeria	3
 santiag	3
 santiags	3
 santons	3
@@ -54327,10 +53842,9 @@ sapés	3
 saquer	3
 saqué	3
 sar	3
-sara	1
+sara	3
 sarabande	3
 sarabandes	3
-saratoga	3
 sarbacane	3
 sarbacanes	3
 sarcasme	2
@@ -54348,7 +53862,6 @@ sardine	2
 sardines	2
 sardonique	3
 sarge	2
-sargent	3
 sari	3
 sarin	2
 saris	3
@@ -54363,7 +53876,7 @@ sarrois	3
 sas	2
 sashimi	3
 sashimis	3
-satan	1
+satan	3
 satana	3
 satanas	3
 sataner	3
@@ -54409,8 +53922,6 @@ saturation	2
 sature	3
 saturer	3
 saturnales	3
-saturne	2
-saturnin	3
 saturé	2
 saturée	3
 saturées	3
@@ -54433,7 +53944,6 @@ saugrenu	2
 saugrenue	2
 saugrenues	3
 saugrenus	3
-saul	1
 saule	2
 saules	2
 saumon	1
@@ -54622,19 +54132,16 @@ savoyard	2
 savoyarde	3
 savoyards	3
 sax	3
-saxe	3
 saxo	3
 saxon	2
 saxonne	3
 saxons	3
 saxophone	2
 saxos	3
-saya	3
 saynète	3
 saynètes	3
 saz	3
 saï	3
-sb	3
 sbire	3
 sbires	2
 scabreuse	3
@@ -54714,7 +54221,6 @@ schizo	3
 schlague	3
 schlass	3
 schlingue	3
-schmitt	3
 schnaps	3
 schnauzer	3
 schnitzel	3
@@ -54726,7 +54232,6 @@ schproum	3
 schtroumpf	2
 schupo	3
 schuss	3
-schwarz	3
 schéma	2
 schémas	2
 sciaient	3
@@ -54790,7 +54295,7 @@ scotchs	3
 scotché	3
 scotchée	3
 scotchés	3
-scott	1
+scott	3
 scottish	3
 scoubidou	3
 scoumoune	3
@@ -55018,7 +54523,6 @@ semoir	3
 semonce	3
 semons	3
 semoule	3
-semple	3
 semtex	3
 semé	2
 semée	2
@@ -55026,7 +54530,6 @@ semées	3
 semés	2
 sen	2
 sena	3
-seneca	3
 senestre	3
 senior	2
 seniors	2
@@ -55262,7 +54765,6 @@ sesterces	3
 set	2
 sets	3
 setta	3
-sette	3
 setter	3
 setters	3
 seuil	1
@@ -55301,12 +54803,9 @@ sexy	1
 sexys	3
 seyait	3
 seyant	3
-sha	3
 shabbat	3
-shack	2
-shad	3
+shack	3
 shah	2
-shaka	3
 shake	2
 shaker	3
 shakes	3
@@ -55319,17 +54818,11 @@ shamisen	3
 shampoing	2
 shampoings	3
 shampooing	2
-shana	3
 shantung	3
 shape	3
-sharon	1
-shasta	3
-shaver	3
 shawnee	3
 shed	3
-sheikh	3
 shekels	3
-shell	2
 sheriff	2
 sherpa	3
 sherpas	3
@@ -55340,7 +54833,6 @@ shift	3
 shilling	2
 shillings	2
 shimmy	3
-shin	2
 shine	2
 shines	3
 shinto	3
@@ -55369,7 +54861,7 @@ shopping	1
 short	1
 shorter	3
 shorts	2
-shorty	2
+shorty	3
 shot	2
 shots	2
 show	1
@@ -55390,7 +54882,6 @@ shériff	2
 shérifs	3
 shôgun	3
 si	1
-siam	3
 siamois	2
 siamoise	3
 siamoises	3
@@ -55467,7 +54958,6 @@ sifflée	3
 sigillée	3
 sigle	3
 sigles	3
-sigma	3
 signa	2
 signai	3
 signaient	3
@@ -55534,12 +55024,10 @@ signés	2
 sikh	3
 sikhs	3
 sil	2
-silas	2
 silence	1
 silences	1
 silencieux	1
 silent	3
-siler	3
 silex	2
 silhouette	1
 silicate	3
@@ -55560,7 +55048,6 @@ sillonné	3
 sillonnée	3
 sillonnées	3
 sillons	2
-sills	3
 silo	2
 silos	3
 silure	3
@@ -55725,7 +55212,6 @@ sixième	1
 sixièmes	3
 sixte	3
 sixties	3
-sixtine	3
 sixtus	3
 size	3
 siècle	1
@@ -55763,7 +55249,6 @@ skiff	3
 skin	3
 skinhead	3
 skinheads	3
-skinner	2
 skins	3
 skip	2
 skipper	2
@@ -55771,7 +55256,7 @@ skis	2
 skié	3
 skunks	3
 sky	2
-skype	2
+skype	3
 skyper	3
 slack	3
 slalom	3
@@ -55785,9 +55270,8 @@ sleeping	3
 sleigh	3
 slibard	3
 slice	3
-slick	3
 slide	3
-slim	2
+slim	3
 sling	3
 slinky	3
 slip	1
@@ -56022,7 +55506,6 @@ solvant	3
 solvants	3
 som	3
 soma	3
-somalie	2
 somalien	3
 somaliens	3
 somatique	3
@@ -56180,7 +55663,7 @@ sons	1
 sont	1
 sopalin	3
 sopha	3
-sophie	1
+sophie	2
 sophisme	3
 sophismes	3
 sophiste	3
@@ -56244,7 +55727,6 @@ sortîmes	3
 sortît	3
 sosie	2
 sosies	3
-soso	3
 sot	2
 sots	2
 sotte	2
@@ -56293,7 +55775,6 @@ soudaines	3
 soudaineté	3
 soudains	3
 soudait	3
-soudan	2
 soudanais	3
 soudant	3
 soudard	3
@@ -56700,7 +56181,6 @@ spam	3
 spams	3
 sparadrap	2
 spare	3
-sparte	3
 sparterie	3
 spartiate	3
 spartiates	3
@@ -56729,10 +56209,9 @@ spectres	2
 speech	2
 speed	2
 speeder	3
-speedo	3
 speedé	3
 speedés	3
-spencer	1
+spencer	3
 spermatos	3
 sperme	1
 spermes	3
@@ -56747,7 +56226,6 @@ sphérique	3
 sphériques	3
 spica	3
 spider	2
-spike	1
 spin	3
 spina	3
 spinal	3
@@ -56763,7 +56241,6 @@ spirituel	1
 spirituels	2
 spiritueux	3
 spitter	3
-spitz	3
 splash	3
 spleen	3
 spleens	3
@@ -56861,12 +56338,11 @@ squaws	3
 squeeze	3
 squelette	1
 squelettes	2
-squid	3
 squire	3
 squires	3
 sr	3
 ssh	3
-st	1
+st	2
 stabilise	2
 stabiliser	2
 stabilisez	3
@@ -56881,7 +56357,6 @@ stade	1
 stades	2
 stadium	3
 staff	2
-stafford	2
 stage	1
 stages	3
 stagiaire	2
@@ -56924,7 +56399,6 @@ startup	3
 stase	2
 stat	3
 state	2
-states	3
 station	1
 stationne	3
 stationner	3
@@ -56969,7 +56443,6 @@ sternum	2
 stetson	3
 steward	2
 stewards	3
-stewart	1
 stick	2
 sticker	3
 stickers	3
@@ -57060,7 +56533,7 @@ stratégie	1
 stratégies	2
 stream	3
 streaming	3
-street	1
+street	2
 streets	3
 stress	1
 stressait	3
@@ -57417,7 +56890,6 @@ suffrage	2
 suffrages	3
 suffît	3
 sufi	3
-suga	3
 suggestif	3
 suggestifs	3
 suggestion	1
@@ -57528,7 +57000,6 @@ sulfureux	3
 sulfurique	3
 sulfurisé	3
 sulky	3
-sully	2
 sulpicien	3
 sultan	2
 sultanat	3
@@ -58036,7 +57507,6 @@ suçons	3
 suçotait	3
 suçote	3
 suçoter	3
-suède	2
 sué	3
 suédine	3
 suédois	2
@@ -58049,7 +57519,6 @@ svelte	2
 sveltes	3
 sveltesse	3
 svp	1
-svt	3
 swag	3
 swahili	3
 swap	3
@@ -58070,7 +57539,6 @@ syllabes	2
 syllogisme	3
 sylphides	3
 sylvain	3
-sylvaine	3
 sylvestre	3
 sylvestres	3
 sylvie	2
@@ -58146,7 +57614,6 @@ syriens	2
 syro	3
 syrtes	2
 system	3
-systems	3
 systole	3
 systolique	2
 système	1
@@ -58460,7 +57927,6 @@ tacitement	3
 tacites	3
 taciturne	2
 taciturnes	3
-tack	3
 tackle	3
 tacle	3
 tacler	3
@@ -58549,7 +58015,6 @@ taisons	3
 tait	1
 tajine	3
 tajines	3
-taka	3
 tal	3
 tala	3
 talas	3
@@ -58569,7 +58034,6 @@ talisman	2
 talismans	3
 talkie	3
 talkies	3
-talmud	3
 talmudiste	3
 taloche	3
 taloches	3
@@ -58586,8 +58050,6 @@ talonnés	3
 talons	1
 talquer	3
 talus	1
-tam	2
-tama	3
 tamaris	3
 tambouille	3
 tambour	1
@@ -58603,14 +58065,13 @@ tamil	3
 tamis	2
 tamisait	3
 tamisant	3
-tamise	2
+tamise	3
 tamiser	3
 tamisé	3
 tamisée	3
 tamisées	3
 tamisés	3
 tamoul	3
-tampa	2
 tampax	3
 tampon	2
 tamponna	3
@@ -58621,7 +58082,7 @@ tamponne	2
 tamponner	3
 tamponné	3
 tampons	2
-tan	2
+tan	3
 tancer	3
 tanche	3
 tanches	3
@@ -58685,7 +58146,7 @@ tantrisme	3
 tantôt	1
 tanuki	3
 tanukis	3
-tao	2
+tao	3
 taon	3
 taons	3
 taoïste	3
@@ -58758,7 +58219,6 @@ tapoter	2
 tapotez	3
 tapotèrent	3
 tapoté	3
-taps	3
 tapèrent	3
 tapé	1
 tapée	2
@@ -58778,7 +58238,7 @@ taquines	3
 taquinez	3
 taquiné	3
 taquinée	3
-tara	1
+tara	3
 tarabuste	3
 tarare	3
 taratata	3
@@ -58865,7 +58325,7 @@ tartiss	3
 tartisses	3
 tartre	3
 tartuffe	3
-tarzan	2
+tarzan	3
 taré	1
 tarée	2
 tarées	3
@@ -58961,7 +58421,6 @@ tchao	2
 tchat	3
 tchatche	3
 tchatcher	3
-tchin	3
 tchèque	2
 tchèques	2
 tchétchène	3
@@ -58980,7 +58439,7 @@ teck	3
 teckel	3
 teckels	3
 tectonique	3
-teddy	1
+teddy	3
 tee	2
 teenager	3
 teflon	3
@@ -59207,7 +58666,7 @@ ternis	3
 ternissait	3
 ternisse	3
 ternit	3
-terra	2
+terra	3
 terrage	3
 terraient	3
 terrain	1
@@ -59278,8 +58737,6 @@ tertio	3
 tertre	2
 tertres	3
 tes	1
-tesla	2
-tessa	2
 tesseract	3
 tessiture	3
 tesson	3
@@ -59360,14 +58817,12 @@ thermos	2
 thermostat	3
 thiopental	3
 thomas	1
-thompson	1
 thon	1
 thoniers	3
 thons	3
 thoracique	2
 thorax	2
 thorium	3
-thorn	3
 thrace	3
 thraces	3
 thrill	3
@@ -59390,7 +58845,7 @@ thébaïde	3
 théière	2
 théières	3
 thématique	3
-théo	2
+théo	3
 théologie	2
 théologien	3
 théorbe	3
@@ -59450,7 +58905,7 @@ tif	3
 tifs	2
 tige	1
 tigelles	3
-tiger	2
+tiger	3
 tiges	1
 tignasse	2
 tignasses	3
@@ -59465,7 +58920,6 @@ tiki	3
 tikka	3
 tilbury	3
 till	2
-tiller	3
 tilleul	2
 tilleuls	2
 tilt	2
@@ -59493,7 +58947,6 @@ tin	2
 tine	3
 tinette	3
 tinettes	3
-tinker	3
 tinrent	3
 tins	2
 tinssent	3
@@ -59616,7 +59069,6 @@ titillait	3
 titille	3
 titiller	3
 titillé	3
-titine	3
 titra	2
 titrage	3
 titrait	3
@@ -59656,7 +59108,6 @@ toaster	3
 toasts	2
 toboggan	2
 toboggans	3
-toby	1
 toc	1
 tocante	3
 tocard	2
@@ -59696,7 +59147,6 @@ toits	1
 toiture	2
 toitures	3
 tokay	3
-token	3
 tolets	3
 tollé	3
 toluène	3
@@ -59725,12 +59175,11 @@ toléré	2
 tolérée	3
 tolérées	3
 tolérés	3
-tom	1
+tom	2
 toma	3
 tomahawk	3
 toman	3
 tomans	3
-tomas	2
 tomate	1
 tomates	1
 tomba	1
@@ -59780,7 +59229,7 @@ tomes	2
 tomettes	3
 tomme	3
 tommettes	3
-tommy	1
+tommy	3
 ton	1
 tonalité	2
 tonalités	3
@@ -59798,7 +59247,6 @@ tondues	3
 tondus	3
 toner	3
 tong	2
-tonga	3
 tongs	3
 tonic	2
 tonifiant	3
@@ -59855,7 +59303,6 @@ toques	3
 toqué	3
 toquée	3
 toqués	3
-torah	3
 torcha	3
 torchait	3
 torchant	3
@@ -59899,7 +59346,6 @@ tories	3
 toril	3
 tornade	2
 tornades	2
-tornado	3
 toro	2
 torpeur	1
 torpide	3
@@ -59971,7 +59417,6 @@ torturées	3
 torturés	2
 torve	2
 torves	3
-tory	3
 toréador	3
 toscan	3
 toscane	3
@@ -59987,7 +59432,7 @@ totalité	1
 totaux	3
 totem	2
 totems	3
-toto	2
+toto	3
 totoche	3
 toton	3
 totons	3
@@ -60138,7 +59583,7 @@ tourtes	3
 tous	1
 toussa	2
 toussaient	3
-toussaint	2
+toussaint	3
 toussait	2
 toussant	3
 tousse	2
@@ -60212,7 +59657,6 @@ tracée	2
 tracées	2
 tracés	2
 trad	1
-trade	2
 trader	3
 traders	3
 tradition	1
@@ -60357,7 +59801,7 @@ trams	3
 tramway	2
 tramways	2
 tramé	3
-trance	2
+trance	3
 trancha	2
 tranchait	2
 tranchant	1
@@ -60602,7 +60046,7 @@ treilles	3
 treillis	2
 treize	1
 treizième	2
-trek	2
+trek	3
 trembla	3
 tremblai	3
 tremblais	2
@@ -60770,7 +60214,6 @@ trimer	2
 trimestre	2
 trimestres	3
 trimé	3
-trina	2
 tringle	3
 tringler	3
 tringles	2
@@ -60895,7 +60338,6 @@ trognons	3
 trois	1
 troisième	1
 troisièmes	3
-trojan	3
 troll	2
 trolley	3
 trolleybus	3
@@ -61278,11 +60720,9 @@ tuméfiée	3
 tuméfiées	3
 tuméfiés	3
 tun	3
-tuna	3
 tune	3
 tuner	3
 tunes	2
-tung	3
 tungstène	3
 tunique	2
 tuniques	2
@@ -61318,7 +60758,6 @@ turent	2
 turf	3
 turfistes	3
 turistas	3
-turk	2
 turlu	3
 turlupine	3
 turlutte	3
@@ -61357,7 +60796,6 @@ tutus	3
 tutute	3
 tutélaire	3
 tutélaires	3
-tuya	3
 tuyau	1
 tuyauter	3
 tuyauterie	2
@@ -61592,7 +61030,6 @@ ulcères	3
 ulcéré	3
 ulcérée	3
 ulna	3
-ulster	3
 ultimatum	2
 ultimatums	3
 ultime	1
@@ -61714,7 +61151,7 @@ urètre	3
 urée	3
 urémie	3
 us	1
-usa	1
+usa	3
 usage	1
 usager	3
 usagers	3
@@ -61800,7 +61237,6 @@ utérin	3
 utérine	3
 utérines	3
 utérus	2
-uzi	3
 va	1
 vacance	3
 vacances	1
@@ -61845,8 +61281,6 @@ vaciller	2
 vacillé	3
 vacuité	3
 vacuum	3
-vada	3
-vader	3
 vadrouille	2
 vagabond	2
 vagabonde	2
@@ -61917,14 +61351,13 @@ valaient	2
 valais	3
 valait	1
 valant	2
-valda	3
 valdingue	3
 valdinguer	3
 valdingues	3
 valence	3
 valent	1
-valentin	1
-valentine	2
+valentin	3
+valentine	3
 valet	1
 valetaille	3
 valets	2
@@ -61945,7 +61378,6 @@ valiez	3
 valise	1
 valises	1
 valium	2
-valkyrie	3
 valkyries	3
 vallon	2
 vallonné	3
@@ -62087,7 +61519,6 @@ variés	2
 variété	2
 variétés	2
 varlope	3
-varus	3
 vas	1
 vasa	3
 vasais	3
@@ -62109,7 +61540,6 @@ vassaux	2
 vaste	1
 vastes	1
 vastitude	3
-vatican	2
 vaticane	3
 vaticinant	3
 vau	3
@@ -62283,7 +61713,6 @@ venin	2
 venins	3
 venions	2
 venir	1
-venise	2
 venons	1
 vent	1
 venta	3
@@ -62333,14 +61762,11 @@ verbes	3
 verbeux	3
 verbiage	3
 verbosité	3
-verde	3
-verdes	3
 verdeur	3
 verdi	3
 verdict	1
 verdicts	3
 verdie	3
-verdier	3
 verdies	3
 verdir	3
 verdis	3
@@ -62438,7 +61864,6 @@ versant	1
 versants	3
 versatile	3
 verse	1
-verseau	3
 versement	2
 versements	3
 versent	3
@@ -62503,7 +61928,6 @@ vestige	2
 vestiges	2
 veston	1
 vestons	3
-veta	3
 veto	2
 veuf	2
 veufs	3
@@ -62594,7 +62018,7 @@ victime	1
 victimes	1
 victoire	1
 victoires	2
-victoria	1
+victoria	3
 victorien	3
 victoriens	3
 victorieux	2
@@ -62737,7 +62161,6 @@ vindaloo	3
 vindicatif	3
 vindicte	3
 vine	3
-vines	3
 vineuse	3
 vineuses	3
 vineux	3
@@ -63033,7 +62456,6 @@ vivent	1
 vives	1
 viveur	3
 vivez	1
-vivi	3
 vivier	3
 viviers	3
 viviez	2
@@ -63202,7 +62624,6 @@ volontés	2
 vols	1
 volt	3
 voltage	3
-voltaire	3
 volte	3
 voltes	3
 voltige	2
@@ -63422,7 +62843,6 @@ vulnéraire	3
 vulve	3
 vulves	3
 vus	1
-vy	3
 vé	3
 vécu	1
 vécue	2
@@ -63480,7 +62900,7 @@ véniels	3
 vénitien	2
 vénitienne	3
 vénitiens	2
-vénus	2
+vénus	3
 vénusté	3
 vénère	2
 vénèrent	3
@@ -63540,7 +62960,7 @@ vérole	2
 vérolé	3
 vérolées	3
 vérolés	3
-véronique	2
+véronique	3
 véroniques	3
 vésanie	3
 vésicule	2
@@ -63581,33 +63001,26 @@ wagon	1
 wagonnet	3
 wagonnets	3
 wagons	1
-wai	2
 walk	2
 walkie	3
 walkman	3
 walks	3
 walkyrie	3
 wall	2
-walla	3
 wallaby	3
-wallace	1
+wallace	3
 walls	3
-walter	1
-wan	2
+walter	3
 waouh	1
 wapitis	3
 warfarine	3
 warning	3
-warrior	3
-warriors	3
 wasabi	3
 waste	3
-wat	3
 water	2
 waterman	3
 waterproof	3
 waters	2
-watt	3
 wattman	3
 watts	2
 watusi	3
@@ -63619,12 +63032,10 @@ webcam	2
 webcams	3
 webmaster	3
 weed	3
-weeds	3
 weekend	1
 weekends	3
 weird	3
 welter	3
-wen	2
 western	2
 westerns	2
 wharf	3
@@ -63643,16 +63054,13 @@ wigwam	3
 wiki	3
 wildcat	3
 willaya	3
-william	1
-williams	1
+william	3
+williams	3
 winch	3
-winchester	2
+winchester	3
 window	3
 windows	3
-winnebago	3
-wisigoths	3
 wok	3
-wolfram	3
 wolof	3
 wombat	3
 won	2
@@ -63663,7 +63071,7 @@ wouah	2
 wrap	3
 wu	2
 wushu	3
-xavier	2
+xavier	3
 xi	3
 xiang	3
 xylo	3
@@ -63686,13 +63094,10 @@ yakusas	3
 yakuza	2
 yakuzas	2
 yali	3
-yam	3
 yama	3
-yana	3
 yang	1
 yankee	2
 yankees	2
-yao	3
 yaourt	2
 yaourts	2
 yard	3
@@ -63706,7 +63111,6 @@ yeshiva	3
 yeti	3
 yeuses	3
 yeux	1
-yi	2
 yiddish	3
 yin	2
 yod	3
@@ -63717,10 +63121,9 @@ yogis	3
 yogourt	3
 yole	3
 yoni	3
-york	1
+york	3
 yorkais	3
 yorkaise	3
-yorkshire	2
 yoruba	3
 yougoslave	2
 youp	3
@@ -63740,11 +63143,8 @@ yuan	2
 yuans	2
 yucca	3
 yue	3
-yuki	2
-yuko	3
 yuppie	3
 yuppies	3
-yuri	2
 yéménite	3
 yéti	3
 yéyé	3
@@ -63752,7 +63152,6 @@ zadé	3
 zakouski	3
 zakouskis	3
 zanzi	2
-zanzibar	3
 zappa	3
 zappe	3
 zapper	3
@@ -63762,7 +63161,6 @@ zappé	3
 zarb	3
 zarbi	3
 zarbis	3
-zaza	3
 zazou	3
 zazous	3
 zeb	3
@@ -63774,7 +63172,6 @@ zeppelin	3
 zeppelins	3
 zest	3
 zeste	3
-zia	3
 zibeline	3
 zibelines	3
 zieute	3
@@ -63811,7 +63208,6 @@ zipper	3
 zippo	3
 zircon	3
 zirconium	3
-ziva	2
 zizanie	3
 zizi	2
 zizique	3
@@ -63852,7 +63248,6 @@ zozo	3
 zozos	3
 zozotant	3
 zozote	3
-zoé	1
 zumba	3
 zurichois	3
 zut	1
